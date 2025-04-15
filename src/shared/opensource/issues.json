@@ -1,2205 +1,2205 @@
 {
-  "data": [
-    {
-      "id": "I_kwDOI_OvOs6M9hU6",
-      "closed": true,
-      "title": "🧑‍💻: Adding more social media icons",
-      "createdAt": "2024-06-20T17:34:42Z",
-      "url": "https://github.com/Avdhesh-Varshney/pjt-blog/issues/364",
-      "number": 364,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "pjt-blog",
-        "url": "https://github.com/Avdhesh-Varshney/pjt-blog",
-        "owner": {
-          "login": "Avdhesh-Varshney",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/114330097?u=3371844471ca9660c51b04450ee43291919d3822&v=4",
-          "url": "https://github.com/Avdhesh-Varshney"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHxrekM6MufTb",
-      "closed": false,
-      "title": "💡[FEATURE]: In blog section there is linkedin icon but other section doesn't have",
-      "createdAt": "2024-06-19T01:04:28Z",
-      "url": "https://github.com/akshitagupta15june/PetMe/issues/1870",
-      "number": 1870,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "PetMe",
-        "url": "https://github.com/akshitagupta15june/PetMe",
-        "owner": {
-          "login": "akshitagupta15june",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
-          "url": "https://github.com/akshitagupta15june"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKXGWj86MpGtO",
-      "closed": false,
-      "title": "adding logo to the website and the title have to change",
-      "createdAt": "2024-06-18T11:05:19Z",
-      "url": "https://github.com/jaibhedia/ChainzRegistry/issues/59",
-      "number": 59,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "ChainzRegistry",
-        "url": "https://github.com/jaibhedia/ChainzRegistry",
-        "owner": {
-          "login": "jaibhedia",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57904885?u=403f09ff26a530d91d20f559e9a5c2bade814321&v=4",
-          "url": "https://github.com/jaibhedia"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLgcKas6MlWTn",
-      "closed": true,
-      "title": "[Feature Request]: add social media icons ",
-      "createdAt": "2024-06-18T01:11:26Z",
-      "url": "https://github.com/heysubinoy/clippy/issues/70",
-      "number": 70,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "clippy",
-        "url": "https://github.com/heysubinoy/clippy",
-        "owner": {
-          "login": "heysubinoy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/115915591?u=d1413bf4ffd31381b020d7e031f53fa1e6fd34a4&v=4",
-          "url": "https://github.com/heysubinoy"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLxMJS86MhPU4",
-      "closed": true,
-      "title": "improve the footer",
-      "createdAt": "2024-06-17T14:40:47Z",
-      "url": "https://github.com/arghadipmanna101/Flipkart_Clone/issues/1253",
-      "number": 1253,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Flipkart_Clone",
-        "url": "https://github.com/arghadipmanna101/Flipkart_Clone",
-        "owner": {
-          "login": "arghadipmanna101",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/130065095?u=09b7ab919c0762fc93ff48985d7a84313ddfd7dc&v=4",
-          "url": "https://github.com/arghadipmanna101"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJ6Wpt86MhH9Q",
-      "closed": true,
-      "title": "[Feature Request]: add a logo to the career crafters",
-      "createdAt": "2024-06-17T14:26:41Z",
-      "url": "https://github.com/apu52/METAVERSE/issues/806",
-      "number": 806,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "METAVERSE",
-        "url": "https://github.com/apu52/METAVERSE",
-        "owner": {
-          "login": "apu52",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
-          "url": "https://github.com/apu52"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLWYCzM6Ma4kx",
-      "closed": true,
-      "title": "[Feature]: add logo to the page",
-      "createdAt": "2024-06-16T16:15:29Z",
-      "url": "https://github.com/Indie-Kart/ecommerce-store/issues/125",
-      "number": 125,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "ecommerce-store",
-        "url": "https://github.com/Indie-Kart/ecommerce-store",
-        "owner": {
-          "login": "Indie-Kart",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/159432359?v=4",
-          "url": "https://github.com/Indie-Kart"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL7P-qM6MZEsG",
-      "closed": true,
-      "title": "improve the footer",
-      "createdAt": "2024-06-16T02:23:29Z",
-      "url": "https://github.com/adarsh-singh01/PrithWe/issues/145",
-      "number": 145,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "PrithWe",
-        "url": "https://github.com/adarsh-singh01/PrithWe",
-        "owner": {
-          "login": "adarsh-singh01",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/143992541?u=40a931d2e0cc039f69f61f9c3b17d6f2e7e1672d&v=4",
-          "url": "https://github.com/adarsh-singh01"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL2VN_M6MZENl",
-      "closed": false,
-      "title": "improve the footer  ",
-      "createdAt": "2024-06-16T02:14:29Z",
-      "url": "https://github.com/BamaCharanChhandogi/Diabetes-Prediction/issues/102",
-      "number": 102,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Diabetes-Prediction",
-        "url": "https://github.com/BamaCharanChhandogi/Diabetes-Prediction",
-        "owner": {
-          "login": "BamaCharanChhandogi",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/69814563?u=fd0ce10726585d8f7d233f64ab9f1639da647bb6&v=4",
-          "url": "https://github.com/BamaCharanChhandogi"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLwAL086MVYNu",
-      "closed": false,
-      "title": "add a logo to the page",
-      "createdAt": "2024-06-15T02:22:21Z",
-      "url": "https://github.com/devxprite/resumave/issues/26",
-      "number": 26,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "resumave",
-        "url": "https://github.com/devxprite/resumave",
-        "owner": {
-          "login": "devxprite",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/80192140?u=c77322f83a906e9e6a36fdfbca11800dd26a2884&v=4",
-          "url": "https://github.com/devxprite"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL0TLiM6MK1pW",
-      "closed": false,
-      "title": "add discord logo in the footer and improve",
-      "createdAt": "2024-06-13T17:05:33Z",
-      "url": "https://github.com/Sayak-Bhunia/mystory/issues/252",
-      "number": 252,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "mystory",
-        "url": "https://github.com/Sayak-Bhunia/mystory",
-        "owner": {
-          "login": "Sayak-Bhunia",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/110457746?u=de6c14b6842103a464b61ad0ec59cc856ee292f0&v=4",
-          "url": "https://github.com/Sayak-Bhunia"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLSKYns6L91WD",
-      "closed": false,
-      "title": "add new discord logo to share the link",
-      "createdAt": "2024-06-12T09:10:36Z",
-      "url": "https://github.com/urstrulynishkarsh/ReactChat/issues/192",
-      "number": 192,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "ReactChat",
-        "url": "https://github.com/urstrulynishkarsh/ReactChat",
-        "owner": {
-          "login": "urstrulynishkarsh",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/97511886?u=02597efcd8c76704c835ae3f879646f079f167db&v=4",
-          "url": "https://github.com/urstrulynishkarsh"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJjFLKs6L9MtG",
-      "closed": true,
-      "title": "improve the footer ",
-      "createdAt": "2024-06-12T07:51:04Z",
-      "url": "https://github.com/Sanchitbajaj02/palettegram/issues/372",
-      "number": 372,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "palettegram",
-        "url": "https://github.com/Sanchitbajaj02/palettegram",
-        "owner": {
-          "login": "Sanchitbajaj02",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/55249639?u=559dec8f2f97aacfcebc09a05d8d92526ce9fbda&v=4",
-          "url": "https://github.com/Sanchitbajaj02"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLdz4B86L7Yy4",
-      "closed": true,
-      "title": "in about us section text is not appearing and there is hover effect",
-      "createdAt": "2024-06-12T01:43:22Z",
-      "url": "https://github.com/anuragverma108/SwapReads/issues/1748",
-      "number": 1748,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "SwapReads",
-        "url": "https://github.com/anuragverma108/SwapReads",
-        "owner": {
-          "login": "anuragverma108",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
-          "url": "https://github.com/anuragverma108"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLNSXwM6L7QEf",
-      "closed": true,
-      "title": "add discord logo to the page",
-      "createdAt": "2024-06-12T01:16:44Z",
-      "url": "https://github.com/sk66641/Random-Disco-Light-Simulator/issues/239",
-      "number": 239,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Random-Disco-Light-Simulator",
-        "url": "https://github.com/sk66641/Random-Disco-Light-Simulator",
-        "owner": {
-          "login": "sk66641",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/145834771?u=186ea234253023f008a600e0c8ebb16c2f755c50&v=4",
-          "url": "https://github.com/sk66641"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKcBd0M6L7N-P",
-      "closed": true,
-      "title": "add copyright and hover the footer of the text",
-      "createdAt": "2024-06-12T01:06:41Z",
-      "url": "https://github.com/harshalhonde21/EcommerceSpectastyle/issues/405",
-      "number": 405,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "EcommerceSpectastyle",
-        "url": "https://github.com/harshalhonde21/EcommerceSpectastyle",
-        "owner": {
-          "login": "harshalhonde21",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/105191619?u=bf7b3e7fc098498b90a5a43d7bf98c2a3ed3533d&v=4",
-          "url": "https://github.com/harshalhonde21"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKxHUdM6LyS3d",
-      "closed": false,
-      "title": "add more social media icons and hover it different colors",
-      "createdAt": "2024-06-11T02:11:39Z",
-      "url": "https://github.com/growupanand/ConvoForm/issues/279",
-      "number": 279,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ConvoForm",
-        "url": "https://github.com/growupanand/ConvoForm",
-        "owner": {
-          "login": "growupanand",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/29487686?u=3e0760bfc049260c7318022fde69d6a82b3d00d2&v=4",
-          "url": "https://github.com/growupanand"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLrXQ0M6LyPHh",
-      "closed": true,
-      "title": "improve the footer with hover effects and more social media icons ",
-      "createdAt": "2024-06-11T02:03:43Z",
-      "url": "https://github.com/subhadeeproy3902/BloxAI/issues/263",
-      "number": 263,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "BloxAI",
-        "url": "https://github.com/subhadeeproy3902/BloxAI",
-        "owner": {
-          "login": "subhadeeproy3902",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/111780029?u=8b7fd0e2f8b332d0d0e1e4f63db22ec1df2fc6d6&v=4",
-          "url": "https://github.com/subhadeeproy3902"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOI2zBxs6LyL3i",
-      "closed": true,
-      "title": "improve the footer ",
-      "createdAt": "2024-06-11T01:54:31Z",
-      "url": "https://github.com/Clueless-Community/scrape-up/issues/1114",
-      "number": 1114,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "scrape-up",
-        "url": "https://github.com/Clueless-Community/scrape-up",
-        "owner": {
-          "login": "Clueless-Community",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/99969752?v=4",
-          "url": "https://github.com/Clueless-Community"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJ6Wpt86LyIn7",
-      "closed": true,
-      "title": "adding favicon to the career crafters and title name to change",
-      "createdAt": "2024-06-11T01:47:05Z",
-      "url": "https://github.com/apu52/METAVERSE/issues/768",
-      "number": 768,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "METAVERSE",
-        "url": "https://github.com/apu52/METAVERSE",
-        "owner": {
-          "login": "apu52",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
-          "url": "https://github.com/apu52"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL5BElM6LyCTc",
-      "closed": true,
-      "title": "adding logo to the page",
-      "createdAt": "2024-06-11T01:33:10Z",
-      "url": "https://github.com/avinashkranjan/logsuite/issues/32",
-      "number": 32,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "logsuite",
-        "url": "https://github.com/avinashkranjan/logsuite",
-        "owner": {
-          "login": "avinashkranjan",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/55796944?u=311aa421cc46a4604d55f6d22704eb8276b0802c&v=4",
-          "url": "https://github.com/avinashkranjan"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJx-bBM6Lt400",
-      "closed": false,
-      "title": "adding social media icons",
-      "createdAt": "2024-06-10T14:23:41Z",
-      "url": "https://github.com/SyedImtiyaz-1/GetTechProjects/issues/785",
-      "number": 785,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "GetTechProjects",
-        "url": "https://github.com/SyedImtiyaz-1/GetTechProjects",
-        "owner": {
-          "login": "SyedImtiyaz-1",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/121503426?u=0737ad2135f177f58f21b635729cf15343de8c03&v=4",
-          "url": "https://github.com/SyedImtiyaz-1"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLDmgV86Lt1o2",
-      "closed": true,
-      "title": "add more social media logos",
-      "createdAt": "2024-06-10T14:18:12Z",
-      "url": "https://github.com/ashutosh-rath02/git-re/issues/273",
-      "number": 273,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "git-re",
-        "url": "https://github.com/ashutosh-rath02/git-re",
-        "owner": {
-          "login": "ashutosh-rath02",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/85403534?u=6ef9432d202ed6347add2ba9205966cafafb464d&v=4",
-          "url": "https://github.com/ashutosh-rath02"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL882Ps6Ltx3B",
-      "closed": false,
-      "title": "logo is missing in the navbar",
-      "createdAt": "2024-06-10T14:11:36Z",
-      "url": "https://github.com/punyakrit/social-share/issues/113",
-      "number": 113,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/74537549?u=9ef7dec88640fb5bd18a7a03927a423c0e6c36dc&v=4",
-            "name": "V Meenakshi Iyer",
-            "url": "https://github.com/meenakshiiyer2531"
-          }
-        ]
-      },
-      "repository": {
-        "name": "social-share",
-        "url": "https://github.com/punyakrit/social-share",
-        "owner": {
-          "login": "punyakrit",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/67222925?u=8e0fb8a4d21f19ad77fd52f40095c40e02d729f2&v=4",
-          "url": "https://github.com/punyakrit"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJk-Rl86Ltqym",
-      "closed": true,
-      "title": "add favicon and the logo in the navbar of the page",
-      "createdAt": "2024-06-10T13:59:12Z",
-      "url": "https://github.com/abhijeetnishal/Password-Shield/issues/125",
-      "number": 125,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Password-Shield",
-        "url": "https://github.com/abhijeetnishal/Password-Shield",
-        "owner": {
-          "login": "abhijeetnishal",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83833440?u=a1c23746df27ccc9523baa342150047a4d26ad11&v=4",
-          "url": "https://github.com/abhijeetnishal"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJk-Rl86Ltonu",
-      "closed": true,
-      "title": "add favicon and the logo in the navba",
-      "createdAt": "2024-06-10T13:55:49Z",
-      "url": "https://github.com/abhijeetnishal/Password-Shield/issues/124",
-      "number": 124,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Password-Shield",
-        "url": "https://github.com/abhijeetnishal/Password-Shield",
-        "owner": {
-          "login": "abhijeetnishal",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83833440?u=a1c23746df27ccc9523baa342150047a4d26ad11&v=4",
-          "url": "https://github.com/abhijeetnishal"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLi87r86LmTLx",
-      "closed": false,
-      "title": "adding more social media links in the footer ",
-      "createdAt": "2024-06-09T07:29:45Z",
-      "url": "https://github.com/AbhiDiva96/75per/issues/110",
-      "number": 110,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "75per",
-        "url": "https://github.com/AbhiDiva96/75per",
-        "owner": {
-          "login": "AbhiDiva96",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/112077897?u=721ad396e826a3a5d870f27684d99d524eb7aaa4&v=4",
-          "url": "https://github.com/AbhiDiva96"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKGN9F86LmSxD",
-      "closed": true,
-      "title": "Adding the logo in the navbar",
-      "createdAt": "2024-06-09T07:25:31Z",
-      "url": "https://github.com/singhJasvinder101/MyBlog/issues/99",
-      "number": 99,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "MyBlog",
-        "url": "https://github.com/singhJasvinder101/MyBlog",
-        "owner": {
-          "login": "singhJasvinder101",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/131908922?u=e18eeb756947a9c850452f10a83e5295bc2dfd14&v=4",
-          "url": "https://github.com/singhJasvinder101"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLuHGaM6LmSdS",
-      "closed": true,
-      "title": "improve footer of the devpost",
-      "createdAt": "2024-06-09T07:22:05Z",
-      "url": "https://github.com/SurajSanap/College.ai-main/issues/84",
-      "number": 84,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "College.ai-main",
-        "url": "https://github.com/SurajSanap/College.ai-main",
-        "owner": {
-          "login": "SurajSanap",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101057653?u=b82b6a0542fc8867f7f428185ab07ce152d7d538&v=4",
-          "url": "https://github.com/SurajSanap"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJY8CZc6LmR-n",
-      "closed": true,
-      "title": "Adding title in the navbar",
-      "createdAt": "2024-06-09T07:16:21Z",
-      "url": "https://github.com/ArnabChatterjee20k/PickPalette-PaletteFromImage/issues/45",
-      "number": 45,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "PickPalette-PaletteFromImage",
-        "url": "https://github.com/ArnabChatterjee20k/PickPalette-PaletteFromImage",
-        "owner": {
-          "login": "ArnabChatterjee20k",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83803257?u=25f1aa03ccb1308c0a39587f5eba69a25cf455eb&v=4",
-          "url": "https://github.com/ArnabChatterjee20k"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKahMTs6LmRn0",
-      "closed": true,
-      "title": "add logo to the main page",
-      "createdAt": "2024-06-09T07:12:29Z",
-      "url": "https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/issues/498",
-      "number": 498,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "RAPIDOC-HEALTHCARE-WEBSITE-",
-        "url": "https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-",
-        "owner": {
-          "login": "Anishkagupta04",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/170700171?u=5c3b4b867348870d909ebb4189e1486fb9c6381f&v=4",
-          "url": "https://github.com/Anishkagupta04"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKVT6086LmRJl",
-      "closed": true,
-      "title": "add hover effects in the footer",
-      "createdAt": "2024-06-09T07:09:28Z",
-      "url": "https://github.com/SUGAM-ARORA/UniCollab/issues/258",
-      "number": 258,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "UniCollab",
-        "url": "https://github.com/SUGAM-ARORA/UniCollab",
-        "owner": {
-          "login": "SUGAM-ARORA",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/96546088?u=c31e392190f38335bc50cec747a0b7ba1b38cc2d&v=4",
-          "url": "https://github.com/SUGAM-ARORA"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLxJ_v86LmQH9",
-      "closed": false,
-      "title": "adding title and logo in the navbar ",
-      "createdAt": "2024-06-09T06:56:56Z",
-      "url": "https://github.com/Akshatchaube01/TimeWarp/issues/244",
-      "number": 244,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "TimeWarp",
-        "url": "https://github.com/Akshatchaube01/TimeWarp",
-        "owner": {
-          "login": "Akshatchaube01",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/92796050?u=2f0438df4605d3f87b01a2adbf5e7c4a854ebec9&v=4",
-          "url": "https://github.com/Akshatchaube01"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL-uDvM6LmOxs",
-      "closed": true,
-      "title": "add logo in the navbar",
-      "createdAt": "2024-06-09T06:39:09Z",
-      "url": "https://github.com/VaibhavArora314/StyleShare/issues/154",
-      "number": 154,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "StyleShare",
-        "url": "https://github.com/VaibhavArora314/StyleShare",
-        "owner": {
-          "login": "VaibhavArora314",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/84830429?u=c4921f62a4c022fd55cf5bac260cad11c78b3561&v=4",
-          "url": "https://github.com/VaibhavArora314"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLNlxSM6LmMYG",
-      "closed": false,
-      "title": "adding discord logo and improve the footer text",
-      "createdAt": "2024-06-09T06:14:32Z",
-      "url": "https://github.com/MAVRICK-1/e-commerce_website/issues/369",
-      "number": 369,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "e-commerce_website",
-        "url": "https://github.com/MAVRICK-1/e-commerce_website",
-        "owner": {
-          "login": "MAVRICK-1",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/146999057?u=f27962b99760dd798c6b332d77d267b673394745&v=4",
-          "url": "https://github.com/MAVRICK-1"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL1WA6c6LmLk9",
-      "closed": true,
-      "title": "add more social media links to the page",
-      "createdAt": "2024-06-09T06:05:49Z",
-      "url": "https://github.com/Note-Vault/Note-Vault/issues/485",
-      "number": 485,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Note-Vault",
-        "url": "https://github.com/Note-Vault/Note-Vault",
-        "owner": {
-          "login": "Note-Vault",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/168561109?v=4",
-          "url": "https://github.com/Note-Vault"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOI9TtjM6LjpEM",
-      "closed": true,
-      "title": "add title in the navbar",
-      "createdAt": "2024-06-08T02:04:21Z",
-      "url": "https://github.com/Counselllor/Counsellor-Web/issues/681",
-      "number": 681,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Counsellor-Web",
-        "url": "https://github.com/Counselllor/Counsellor-Web",
-        "owner": {
-          "login": "Counselllor",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/135118681?v=4",
-          "url": "https://github.com/Counselllor"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL-uDvM6Ljnug",
-      "closed": true,
-      "title": "enhance the footer  ",
-      "createdAt": "2024-06-08T01:55:21Z",
-      "url": "https://github.com/VaibhavArora314/StyleShare/issues/143",
-      "number": 143,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "StyleShare",
-        "url": "https://github.com/VaibhavArora314/StyleShare",
-        "owner": {
-          "login": "VaibhavArora314",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/84830429?u=c4921f62a4c022fd55cf5bac260cad11c78b3561&v=4",
-          "url": "https://github.com/VaibhavArora314"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOIIggZc6LcPzT",
-      "closed": true,
-      "title": "add the logo to the main page ",
-      "createdAt": "2024-06-07T01:59:08Z",
-      "url": "https://github.com/animator/learn-python/issues/1041",
-      "number": 1041,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "learn-python",
-        "url": "https://github.com/animator/learn-python",
-        "owner": {
-          "login": "animator",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/615622?u=af9d32fba6cb00ef9233d5b394ec0d711755770f&v=4",
-          "url": "https://github.com/animator"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJ6Wpt86LcPWM",
-      "closed": true,
-      "title": "add logo to the Book_review_website and title in the navbar",
-      "createdAt": "2024-06-07T01:56:43Z",
-      "url": "https://github.com/apu52/METAVERSE/issues/754",
-      "number": 754,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "METAVERSE",
-        "url": "https://github.com/apu52/METAVERSE",
-        "owner": {
-          "login": "apu52",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
-          "url": "https://github.com/apu52"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJAH4zs6LcKX5",
-      "closed": true,
-      "title": "add discord,github logo",
-      "createdAt": "2024-06-07T01:33:40Z",
-      "url": "https://github.com/codervivek5/VigyBag/issues/1311",
-      "number": 1311,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "VigyBag",
-        "url": "https://github.com/codervivek5/VigyBag",
-        "owner": {
-          "login": "codervivek5",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/62784060?u=30e6a67dcef41b0aa202877fb0654fd3f609ffe6&v=4",
-          "url": "https://github.com/codervivek5"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKahMTs6LcIPz",
-      "closed": true,
-      "title": "Adding the logo to the page",
-      "createdAt": "2024-06-07T01:22:15Z",
-      "url": "https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/issues/462",
-      "number": 462,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "RAPIDOC-HEALTHCARE-WEBSITE-",
-        "url": "https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-",
-        "owner": {
-          "login": "Anishkagupta04",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/170700171?u=5c3b4b867348870d909ebb4189e1486fb9c6381f&v=4",
-          "url": "https://github.com/Anishkagupta04"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJx-bBM6LcHPN",
-      "closed": false,
-      "title": "enhancement of the footer ",
-      "createdAt": "2024-06-07T01:16:44Z",
-      "url": "https://github.com/SyedImtiyaz-1/GetTechProjects/issues/721",
-      "number": 721,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "GetTechProjects",
-        "url": "https://github.com/SyedImtiyaz-1/GetTechProjects",
-        "owner": {
-          "login": "SyedImtiyaz-1",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/121503426?u=0737ad2135f177f58f21b635729cf15343de8c03&v=4",
-          "url": "https://github.com/SyedImtiyaz-1"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLyWK7c6LYTnQ",
-      "closed": false,
-      "title": "add cursor pointer ",
-      "createdAt": "2024-06-06T14:27:16Z",
-      "url": "https://github.com/ChromeGaming/Squard-line/issues/123",
-      "number": 123,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Squard-line",
-        "url": "https://github.com/ChromeGaming/Squard-line",
-        "owner": {
-          "login": "ChromeGaming",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
-          "url": "https://github.com/ChromeGaming"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHxrekM6LYOKI",
-      "closed": false,
-      "title": "add the favicon logo in the donate page and add more social icon",
-      "createdAt": "2024-06-06T14:17:30Z",
-      "url": "https://github.com/akshitagupta15june/PetMe/issues/1774",
-      "number": 1774,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "PetMe",
-        "url": "https://github.com/akshitagupta15june/PetMe",
-        "owner": {
-          "login": "akshitagupta15june",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
-          "url": "https://github.com/akshitagupta15june"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLb-ugM6LVY6W",
-      "closed": true,
-      "title": "add more social media links and align copyright ",
-      "createdAt": "2024-06-06T08:21:39Z",
-      "url": "https://github.com/sethshivam11/campus-space/issues/49",
-      "number": 49,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "campus-space",
-        "url": "https://github.com/sethshivam11/campus-space",
-        "owner": {
-          "login": "sethshivam11",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/130232913?u=f4e3e8ab57ace28d8be2295a4c0852c45ab4caa1&v=4",
-          "url": "https://github.com/sethshivam11"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJaFnDM6LQjM6",
-      "closed": true,
-      "title": "add discord logo",
-      "createdAt": "2024-06-05T16:40:25Z",
-      "url": "https://github.com/JAYESHBATRA/Virtuo-Learn/issues/391",
-      "number": 391,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Virtuo-Learn",
-        "url": "https://github.com/JAYESHBATRA/Virtuo-Learn",
-        "owner": {
-          "login": "JAYESHBATRA",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/112322302?u=60d0c28faf602849312e983daae2ee0d0acd00ad&v=4",
-          "url": "https://github.com/JAYESHBATRA"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKt3Qos6LQfvY",
-      "closed": true,
-      "title": "hover LinkedIn icon and remove underline",
-      "createdAt": "2024-06-05T16:31:42Z",
-      "url": "https://github.com/khushi-joshi-05/Food-ordering-website/issues/970",
-      "number": 970,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Food-ordering-website",
-        "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
-        "owner": {
-          "login": "khushi-joshi-05",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
-          "url": "https://github.com/khushi-joshi-05"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOK-7o9s6LQdWK",
-      "closed": true,
-      "title": "hover the footer logo's",
-      "createdAt": "2024-06-05T16:26:07Z",
-      "url": "https://github.com/4darsh-Dev/CogniGaurd/issues/52",
-      "number": 52,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "CogniGaurd",
-        "url": "https://github.com/4darsh-Dev/CogniGaurd",
-        "owner": {
-          "login": "4darsh-Dev",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/109789509?u=c65d7a696d2a67ad2ccd60914f68788ffd67a1d9&v=4",
-          "url": "https://github.com/4darsh-Dev"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKyQcmc6LOA9k",
-      "closed": true,
-      "title": "FEATURE: add more social media ",
-      "createdAt": "2024-06-05T11:55:55Z",
-      "url": "https://github.com/piyushg-07/blogzen-OpenSource/issues/393",
-      "number": 393,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "blogzen-OpenSource",
-        "url": "https://github.com/piyushg-07/blogzen-OpenSource",
-        "owner": {
-          "login": "piyushg-07",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/105561630?u=ccc556f107557eead9daa676ce1299e89de1bff8&v=4",
-          "url": "https://github.com/piyushg-07"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLyWlj86LKYYg",
-      "closed": true,
-      "title": "[New Feature]:  add discord logo",
-      "createdAt": "2024-06-05T02:08:09Z",
-      "url": "https://github.com/ChromeGaming/Formation-Absent/issues/52",
-      "number": 52,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Formation-Absent",
-        "url": "https://github.com/ChromeGaming/Formation-Absent",
-        "owner": {
-          "login": "ChromeGaming",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
-          "url": "https://github.com/ChromeGaming"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOFmYGZc6LBTFj",
-      "closed": true,
-      "title": "Title: add copyright ",
-      "createdAt": "2024-06-04T02:06:15Z",
-      "url": "https://github.com/swapnilsparsh/30DaysOfJavaScript/issues/1654",
-      "number": 1654,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "30DaysOfJavaScript",
-        "url": "https://github.com/swapnilsparsh/30DaysOfJavaScript",
-        "owner": {
-          "login": "swapnilsparsh",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/69387608?u=8c32fa1ceb8f18cd89e2f969c77476229eec6994&v=4",
-          "url": "https://github.com/swapnilsparsh"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKVT6086K2v3K",
-      "closed": false,
-      "title": "add discord logo ",
-      "createdAt": "2024-06-02T11:33:22Z",
-      "url": "https://github.com/SUGAM-ARORA/UniCollab/issues/208",
-      "number": 208,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "UniCollab",
-        "url": "https://github.com/SUGAM-ARORA/UniCollab",
-        "owner": {
-          "login": "SUGAM-ARORA",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/96546088?u=c31e392190f38335bc50cec747a0b7ba1b38cc2d&v=4",
-          "url": "https://github.com/SUGAM-ARORA"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOK3d9mc6K2vY2",
-      "closed": false,
-      "title": "add copyright to the footer",
-      "createdAt": "2024-06-02T11:28:27Z",
-      "url": "https://github.com/subhadipbhowmik/30-Days-Of-CPP/issues/128",
-      "number": 128,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "30-Days-Of-CPP",
-        "url": "https://github.com/subhadipbhowmik/30-Days-Of-CPP",
-        "owner": {
-          "login": "subhadipbhowmik",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57017965?u=3b32b58a6a8940592f58cf50ca3ba633739e1658&v=4",
-          "url": "https://github.com/subhadipbhowmik"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLzRboc6K2udQ",
-      "closed": true,
-      "title": "Feat: add social media icons in footer ",
-      "createdAt": "2024-06-02T11:18:31Z",
-      "url": "https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT/issues/109",
-      "number": 109,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "NEWS-AGGREGATOR-PROJECT",
-        "url": "https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT",
-        "owner": {
-          "login": "SiddharthBahuguna",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/112819453?u=d60a3fe8f1f2109b13762ad5b33dcadc278c4edf&v=4",
-          "url": "https://github.com/SiddharthBahuguna"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOI1olhc6K2t5E",
-      "closed": false,
-      "title": "add logo to the page",
-      "createdAt": "2024-06-02T11:12:23Z",
-      "url": "https://github.com/juhinagpure/Eduford-university/issues/292",
-      "number": 292,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Eduford-university",
-        "url": "https://github.com/juhinagpure/Eduford-university",
-        "owner": {
-          "login": "juhinagpure",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/97795041?u=006e4913c170519aa6df3288ddcbb5e56a08bf46&v=4",
-          "url": "https://github.com/juhinagpure"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLCm8JM6K2tKs",
-      "closed": false,
-      "title": "add logo to the page and hover the navbar",
-      "createdAt": "2024-06-02T11:05:26Z",
-      "url": "https://github.com/PranavBarthwal/cosmoXplore/issues/334",
-      "number": 334,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "cosmoXplore",
-        "url": "https://github.com/PranavBarthwal/cosmoXplore",
-        "owner": {
-          "login": "PranavBarthwal",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/110532770?u=be3d1db5bd5a25bd2d553eb5593a3cf852907420&v=4",
-          "url": "https://github.com/PranavBarthwal"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLCm8JM6K2tIj",
-      "closed": false,
-      "title": "add logo to the page and hover the navbar",
-      "createdAt": "2024-06-02T11:05:06Z",
-      "url": "https://github.com/PranavBarthwal/cosmoXplore/issues/333",
-      "number": 333,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "cosmoXplore",
-        "url": "https://github.com/PranavBarthwal/cosmoXplore",
-        "owner": {
-          "login": "PranavBarthwal",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/110532770?u=be3d1db5bd5a25bd2d553eb5593a3cf852907420&v=4",
-          "url": "https://github.com/PranavBarthwal"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKU4h_s6K2sgf",
-      "closed": true,
-      "title": "💡 [FEATURE] - missing favicon logo in about page",
-      "createdAt": "2024-06-02T10:58:44Z",
-      "url": "https://github.com/jfmartinz/ResourceHub/issues/730",
-      "number": 730,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ResourceHub",
-        "url": "https://github.com/jfmartinz/ResourceHub",
-        "owner": {
-          "login": "jfmartinz",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/129386460?u=c6ed5ef2f6ac95c5845a8cfe39dffdd9dc1697f8&v=4",
-          "url": "https://github.com/jfmartinz"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJ7iP0s6K1WXs",
-      "closed": true,
-      "title": "Feature Request : in pricing page the footer support remove underline",
-      "createdAt": "2024-06-01T17:03:21Z",
-      "url": "https://github.com/apu52/Travel_Website/issues/678",
-      "number": 678,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Travel_Website",
-        "url": "https://github.com/apu52/Travel_Website",
-        "owner": {
-          "login": "apu52",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
-          "url": "https://github.com/apu52"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLni3Lc6K1VEc",
-      "closed": false,
-      "title": "Feat: add git and hover the icons ",
-      "createdAt": "2024-06-01T16:50:24Z",
-      "url": "https://github.com/usha-madithati/esmart.github.io/issues/185",
-      "number": 185,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "esmart.github.io",
-        "url": "https://github.com/usha-madithati/esmart.github.io",
-        "owner": {
-          "login": "usha-madithati",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/165480939?v=4",
-          "url": "https://github.com/usha-madithati"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOL6dQWs6K1UU5",
-      "closed": true,
-      "title": "💡[FEATURE] hover the navbar and footer social media icons",
-      "createdAt": "2024-06-01T16:42:45Z",
-      "url": "https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/issues/151",
-      "number": 151,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "StudyNotion-An-Online-Education-Platform",
-        "url": "https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform",
-        "owner": {
-          "login": "Muskansahuincredible",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/113519369?u=8a8fa12b4cc959e59dc274cb1f60df536e14683d&v=4",
-          "url": "https://github.com/Muskansahuincredible"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKiBaxc6K1ReX",
-      "closed": true,
-      "title": "[FEATURE] add logo beside the wanderlust in navbarr",
-      "createdAt": "2024-06-01T16:16:36Z",
-      "url": "https://github.com/krishnaacharyaa/wanderlust/issues/387",
-      "number": 387,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "wanderlust",
-        "url": "https://github.com/krishnaacharyaa/wanderlust",
-        "owner": {
-          "login": "krishnaacharyaa",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/116620586?u=4df58563e45c60d9789b164bfdf0358457587fc0&v=4",
-          "url": "https://github.com/krishnaacharyaa"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHxrekM6K1QU3",
-      "closed": false,
-      "title": "💡[FEATURE]: add logo petme to the donate page and add  discord ,LinkedIn logo in footer ",
-      "createdAt": "2024-06-01T16:06:13Z",
-      "url": "https://github.com/akshitagupta15june/PetMe/issues/1697",
-      "number": 1697,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "PetMe",
-        "url": "https://github.com/akshitagupta15june/PetMe",
-        "owner": {
-          "login": "akshitagupta15june",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
-          "url": "https://github.com/akshitagupta15june"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLIhVM86K1O4i",
-      "closed": true,
-      "title": "add symbols for contact details and enhancement of the footer",
-      "createdAt": "2024-06-01T15:51:57Z",
-      "url": "https://github.com/ayush-that/FinVeda/issues/251",
-      "number": 251,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "FinVeda",
-        "url": "https://github.com/ayush-that/FinVeda",
-        "owner": {
-          "login": "ayush-that",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/110257939?u=b724bbd7cc1a45e99f30385d0e37cfc1a172b225&v=4",
-          "url": "https://github.com/ayush-that"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLxMJS86KzwhT",
-      "closed": true,
-      "title": "Feat: alignment of the social media links and add Instagram ",
-      "createdAt": "2024-06-01T02:16:07Z",
-      "url": "https://github.com/arghadipmanna101/Flipkart_Clone/issues/913",
-      "number": 913,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Flipkart_Clone",
-        "url": "https://github.com/arghadipmanna101/Flipkart_Clone",
-        "owner": {
-          "login": "arghadipmanna101",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/130065095?u=09b7ab919c0762fc93ff48985d7a84313ddfd7dc&v=4",
-          "url": "https://github.com/arghadipmanna101"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJfwqqM6Kzvjf",
-      "closed": true,
-      "title": "[Enhancement]:  Snake water Gun game main page is to change and add water pic to the water button ",
-      "createdAt": "2024-06-01T02:09:03Z",
-      "url": "https://github.com/kunjgit/GameZone/issues/4030",
-      "number": 4030,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "GameZone",
-        "url": "https://github.com/kunjgit/GameZone",
-        "owner": {
-          "login": "kunjgit",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
-          "url": "https://github.com/kunjgit"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKNd9_86KxtaG",
-      "closed": false,
-      "title": "hover the social media icons in footer",
-      "createdAt": "2024-05-31T17:25:08Z",
-      "url": "https://github.com/ashutoshgithubs/iemhacks_DEV-G/issues/128",
-      "number": 128,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "iemhacks_DEV-G",
-        "url": "https://github.com/ashutoshgithubs/iemhacks_DEV-G",
-        "owner": {
-          "login": "ashutoshgithubs",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/97340498?u=d8999d1110cdd635543b785727df1a0a322c8a51&v=4",
-          "url": "https://github.com/ashutoshgithubs"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLssbQs6KxpkD",
-      "closed": true,
-      "title": "Feat: add discord icon and hover the quicks link ",
-      "createdAt": "2024-05-31T17:16:51Z",
-      "url": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork/issues/612",
-      "number": 612,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "AgriLearnNetwork",
-        "url": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork",
-        "owner": {
-          "login": "Suchitra-Sahoo",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/123376847?u=3f270bee913c00799eb3dfbd522169e00391f0a9&v=4",
-          "url": "https://github.com/Suchitra-Sahoo"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJ6Wpt86KxndF",
-      "closed": true,
-      "title": "Feature_Request add Food website logo",
-      "createdAt": "2024-05-31T17:10:19Z",
-      "url": "https://github.com/apu52/METAVERSE/issues/696",
-      "number": 696,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "METAVERSE",
-        "url": "https://github.com/apu52/METAVERSE",
-        "owner": {
-          "login": "apu52",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
-          "url": "https://github.com/apu52"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLgP_es6KxmBU",
-      "closed": false,
-      "title": "[New Internship/Hackathon]: Student Intern - Intel Corporation",
-      "createdAt": "2024-05-31T17:06:17Z",
-      "url": "https://github.com/HimanshuNarware/CareerZunction_Intern/issues/272",
-      "number": 272,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "CareerZunction_Intern",
-        "url": "https://github.com/HimanshuNarware/CareerZunction_Intern",
-        "owner": {
-          "login": "HimanshuNarware",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83147410?u=b83d4739fd5c83388fab447796358dd52fd690ab&v=4",
-          "url": "https://github.com/HimanshuNarware"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKt3Qos6KoKay",
-      "closed": true,
-      "title": "add icon of foodie in the navbar",
-      "createdAt": "2024-05-30T14:10:12Z",
-      "url": "https://github.com/khushi-joshi-05/Food-ordering-website/issues/665",
-      "number": 665,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Food-ordering-website",
-        "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
-        "owner": {
-          "login": "khushi-joshi-05",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
-          "url": "https://github.com/khushi-joshi-05"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLp8sTM6KKo29",
-      "closed": true,
-      "title": "Hover of the social media links",
-      "createdAt": "2024-05-27T01:21:30Z",
-      "url": "https://github.com/Priyaaa1/StartConnect-Hub/issues/284",
-      "number": 284,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "StartConnect-Hub",
-        "url": "https://github.com/Priyaaa1/StartConnect-Hub",
-        "owner": {
-          "login": "Priyaaa1",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/105431748?u=82965d634a194e49aa9f9ea232e9625b63987e06&v=4",
-          "url": "https://github.com/Priyaaa1"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKt3Qos6KKlXZ",
-      "closed": true,
-      "title": "Hover of the footer ",
-      "createdAt": "2024-05-27T01:03:51Z",
-      "url": "https://github.com/khushi-joshi-05/Food-ordering-website/issues/588",
-      "number": 588,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Food-ordering-website",
-        "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
-        "owner": {
-          "login": "khushi-joshi-05",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
-          "url": "https://github.com/khushi-joshi-05"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKIg9rs6KIBQ_",
-      "closed": true,
-      "title": "Feat: Footer social media icons are small not stylized and title page icon favicon not displaying",
-      "createdAt": "2024-05-26T00:52:30Z",
-      "url": "https://github.com/Anushkabh/krishiconnect/issues/331",
-      "number": 331,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "krishiconnect",
-        "url": "https://github.com/Anushkabh/krishiconnect",
-        "owner": {
-          "login": "Anushkabh",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/99523033?v=4",
-          "url": "https://github.com/Anushkabh"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJN3pAs6KIAmH",
-      "closed": false,
-      "title": "[FEATURE REQUEST]  Add more social media ",
-      "createdAt": "2024-05-26T00:45:38Z",
-      "url": "https://github.com/akshitagupta15june/Moksh/issues/1627",
-      "number": 1627,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Moksh",
-        "url": "https://github.com/akshitagupta15june/Moksh",
-        "owner": {
-          "login": "akshitagupta15june",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
-          "url": "https://github.com/akshitagupta15june"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLgP_es6J7wI7",
-      "closed": false,
-      "title": "[Feature Request]: Enchance the footer by adding copyright",
-      "createdAt": "2024-05-24T01:42:22Z",
-      "url": "https://github.com/HimanshuNarware/CareerZunction_Intern/issues/229",
-      "number": 229,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "CareerZunction_Intern",
-        "url": "https://github.com/HimanshuNarware/CareerZunction_Intern",
-        "owner": {
-          "login": "HimanshuNarware",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/83147410?u=b83d4739fd5c83388fab447796358dd52fd690ab&v=4",
-          "url": "https://github.com/HimanshuNarware"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJ6Wpt86J7tyI",
-      "closed": true,
-      "title": "Feature_Request of the food website  footer ",
-      "createdAt": "2024-05-24T01:32:18Z",
-      "url": "https://github.com/apu52/METAVERSE/issues/670",
-      "number": 670,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "METAVERSE",
-        "url": "https://github.com/apu52/METAVERSE",
-        "owner": {
-          "login": "apu52",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
-          "url": "https://github.com/apu52"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLm6FLs6J7qv4",
-      "closed": false,
-      "title": "[Feature Request]:Enhancement  of Footer ",
-      "createdAt": "2024-05-24T01:20:39Z",
-      "url": "https://github.com/Mansi168/EmoWell/issues/150",
-      "number": 150,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "EmoWell",
-        "url": "https://github.com/Mansi168/EmoWell",
-        "owner": {
-          "login": "Mansi168",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/99342612?u=2a91a9054f9b672e951f1efd14e5d38deae136d6&v=4",
-          "url": "https://github.com/Mansi168"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLyWK7c6J7pOj",
-      "closed": true,
-      "title": "[Enhancement]:add favicon to the page",
-      "createdAt": "2024-05-24T01:14:36Z",
-      "url": "https://github.com/ChromeGaming/Squard-line/issues/74",
-      "number": 74,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Squard-line",
-        "url": "https://github.com/ChromeGaming/Squard-line",
-        "owner": {
-          "login": "ChromeGaming",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
-          "url": "https://github.com/ChromeGaming"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJ6Wpt86Jynpj",
-      "closed": true,
-      "title": "Icon of the food website and footer ",
-      "createdAt": "2024-05-23T01:14:50Z",
-      "url": "https://github.com/apu52/METAVERSE/issues/661",
-      "number": 661,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "METAVERSE",
-        "url": "https://github.com/apu52/METAVERSE",
-        "owner": {
-          "login": "apu52",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
-          "url": "https://github.com/apu52"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHxrekM6JgyPh",
-      "closed": false,
-      "title": "add favicon to the pet news page.",
-      "createdAt": "2024-05-21T01:25:58Z",
-      "url": "https://github.com/akshitagupta15june/PetMe/issues/1608",
-      "number": 1608,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "PetMe",
-        "url": "https://github.com/akshitagupta15june/PetMe",
-        "owner": {
-          "login": "akshitagupta15june",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
-          "url": "https://github.com/akshitagupta15june"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLfWMwc6JgvsB",
-      "closed": true,
-      "title": "[FEAT] Add Title to the page",
-      "createdAt": "2024-05-21T01:13:46Z",
-      "url": "https://github.com/singodiyashubham87/draw-it-out/issues/176",
-      "number": 176,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "draw-it-out",
-        "url": "https://github.com/singodiyashubham87/draw-it-out",
-        "owner": {
-          "login": "singodiyashubham87",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/93720428?u=65f489b822ab7a7bf77b49fe22119d27d5485c36&v=4",
-          "url": "https://github.com/singodiyashubham87"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLyWOoM6JguuF",
-      "closed": false,
-      "title": "[Enhancement]: Pointer as cursor",
-      "createdAt": "2024-05-21T01:08:49Z",
-      "url": "https://github.com/ChromeGaming/Spaceship-escort/issues/53",
-      "number": 53,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "Spaceship-escort",
-        "url": "https://github.com/ChromeGaming/Spaceship-escort",
-        "owner": {
-          "login": "ChromeGaming",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
-          "url": "https://github.com/ChromeGaming"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKmjam86JgtKv",
-      "closed": true,
-      "title": "Icons of the navbar and title of the Page",
-      "createdAt": "2024-05-21T01:03:18Z",
-      "url": "https://github.com/Omkar-Sonawane-23/Tourism/issues/377",
-      "number": 377,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Tourism",
-        "url": "https://github.com/Omkar-Sonawane-23/Tourism",
-        "owner": {
-          "login": "Omkar-Sonawane-23",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/130058150?u=a03c57128f36d01736833181fb24a687ee6b6c37&v=4",
-          "url": "https://github.com/Omkar-Sonawane-23"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLs6Juc6JYarw",
-      "closed": true,
-      "title": "Feat: Add footer to the page  and  title to the navbar",
-      "createdAt": "2024-05-20T01:05:44Z",
-      "url": "https://github.com/Satyam1923/Spring-Music-Player/issues/140",
-      "number": 140,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Spring-Music-Player",
-        "url": "https://github.com/Satyam1923/Spring-Music-Player",
-        "owner": {
-          "login": "Satyam1923",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/104068640?u=9760edec8b217d89c5a9c4605cf56a2fa8e0dfa7&v=4",
-          "url": "https://github.com/Satyam1923"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLu_hac6JYYcT",
-      "closed": true,
-      "title": "[New Feature]: Add title to the navbar beside the home ",
-      "createdAt": "2024-05-20T00:52:24Z",
-      "url": "https://github.com/ChromeGaming/Physi-c-Tech/issues/75",
-      "number": 75,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "Physi-c-Tech",
-        "url": "https://github.com/ChromeGaming/Physi-c-Tech",
-        "owner": {
-          "login": "ChromeGaming",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
-          "url": "https://github.com/ChromeGaming"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJrvI9M6JXoUn",
-      "closed": true,
-      "title": "Navbar and Footer",
-      "createdAt": "2024-05-19T15:56:05Z",
-      "url": "https://github.com/abhay-raj19/FitBody/issues/278",
-      "number": 278,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "FitBody",
-        "url": "https://github.com/abhay-raj19/FitBody",
-        "owner": {
-          "login": "abhay-raj19",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/96302417?u=7c4543a97ae4512a1514f7d46af7bfec5fc12005&v=4",
-          "url": "https://github.com/abhay-raj19"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLdz4B86JXn1A",
-      "closed": true,
-      "title": "Feat: Title of the navbar and enhancement of the footer",
-      "createdAt": "2024-05-19T15:50:34Z",
-      "url": "https://github.com/anuragverma108/SwapReads/issues/679",
-      "number": 679,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "SwapReads",
-        "url": "https://github.com/anuragverma108/SwapReads",
-        "owner": {
-          "login": "anuragverma108",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
-          "url": "https://github.com/anuragverma108"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKmmrIs6JXmzD",
-      "closed": false,
-      "title": "Icons of the navbar",
-      "createdAt": "2024-05-19T15:39:18Z",
-      "url": "https://github.com/Omkar-Sonawane-23/VedicVani/issues/170",
-      "number": 170,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "VedicVani",
-        "url": "https://github.com/Omkar-Sonawane-23/VedicVani",
-        "owner": {
-          "login": "Omkar-Sonawane-23",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/130058150?u=a03c57128f36d01736833181fb24a687ee6b6c37&v=4",
-          "url": "https://github.com/Omkar-Sonawane-23"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJfwqqM6JWdKi",
-      "closed": true,
-      "title": "[Enhancement]: simon game popup and icon to title of the page",
-      "createdAt": "2024-05-19T01:02:04Z",
-      "url": "https://github.com/kunjgit/GameZone/issues/3458",
-      "number": 3458,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
-            "name": "Thalla Jayanth",
-            "url": "https://github.com/jayanththalla"
-          }
-        ]
-      },
-      "repository": {
-        "name": "GameZone",
-        "url": "https://github.com/kunjgit/GameZone",
-        "owner": {
-          "login": "kunjgit",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
-          "url": "https://github.com/kunjgit"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJfwqqM6JU7OM",
-      "closed": true,
-      "title": "[Enhancement]: Buttons and description make attractive",
-      "createdAt": "2024-05-18T09:40:42Z",
-      "url": "https://github.com/kunjgit/GameZone/issues/3430",
-      "number": 3430,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "GameZone",
-        "url": "https://github.com/kunjgit/GameZone",
-        "owner": {
-          "login": "kunjgit",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
-          "url": "https://github.com/kunjgit"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJfwqqM6JU6BQ",
-      "closed": true,
-      "title": "[Enhancement]:  simon game popup and make random play one is computer and other is user",
-      "createdAt": "2024-05-18T09:32:24Z",
-      "url": "https://github.com/kunjgit/GameZone/issues/3428",
-      "number": 3428,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/96657297?u=b3b9699a09172e21ae6b8f519cb4346da8539fa3&v=4",
-            "name": "mishika",
-            "url": "https://github.com/mishikagithub"
-          }
-        ]
-      },
-      "repository": {
-        "name": "GameZone",
-        "url": "https://github.com/kunjgit/GameZone",
-        "owner": {
-          "login": "kunjgit",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
-          "url": "https://github.com/kunjgit"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLIhVM86JChYf",
-      "closed": true,
-      "title": "footer section",
-      "createdAt": "2024-05-16T01:44:10Z",
-      "url": "https://github.com/ayush-that/FinVeda/issues/112",
-      "number": 112,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "FinVeda",
-        "url": "https://github.com/ayush-that/FinVeda",
-        "owner": {
-          "login": "ayush-that",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/110257939?u=b724bbd7cc1a45e99f30385d0e37cfc1a172b225&v=4",
-          "url": "https://github.com/ayush-that"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJISw-s6JCejC",
-      "closed": false,
-      "title": "navbar and add footer",
-      "createdAt": "2024-05-16T01:36:22Z",
-      "url": "https://github.com/bishalde/TaskMate/issues/49",
-      "number": 49,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "TaskMate",
-        "url": "https://github.com/bishalde/TaskMate",
-        "owner": {
-          "login": "bishalde",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/67416966?u=101e3f7d80126603dab1f862a94dcec91a1ec870&v=4",
-          "url": "https://github.com/bishalde"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOLssbQs6JCda5",
-      "closed": true,
-      "title": "Feat: navbar and cards",
-      "createdAt": "2024-05-16T01:30:51Z",
-      "url": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork/issues/312",
-      "number": 312,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "AgriLearnNetwork",
-        "url": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork",
-        "owner": {
-          "login": "Suchitra-Sahoo",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/123376847?u=3f270bee913c00799eb3dfbd522169e00391f0a9&v=4",
-          "url": "https://github.com/Suchitra-Sahoo"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKf6u2M6JCbFp",
-      "closed": true,
-      "title": "responsiveness of the page and footer",
-      "createdAt": "2024-05-16T01:19:13Z",
-      "url": "https://github.com/JiyaGupta-cs/ShopNex/issues/254",
-      "number": 254,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ShopNex",
-        "url": "https://github.com/JiyaGupta-cs/ShopNex",
-        "owner": {
-          "login": "JiyaGupta-cs",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/140608790?u=e0d82b651703c5b3d72bb1deb3ca89e4286079e1&v=4",
-          "url": "https://github.com/JiyaGupta-cs"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKyQcmc6JCZEw",
-      "closed": true,
-      "title": "body and footer",
-      "createdAt": "2024-05-16T01:08:40Z",
-      "url": "https://github.com/piyushg-07/blogzen-OpenSource/issues/204",
-      "number": 204,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "blogzen-OpenSource",
-        "url": "https://github.com/piyushg-07/blogzen-OpenSource",
-        "owner": {
-          "login": "piyushg-07",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/105561630?u=ccc556f107557eead9daa676ce1299e89de1bff8&v=4",
-          "url": "https://github.com/piyushg-07"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJAH4zs6InqYj",
-      "closed": true,
-      "title": "team section ",
-      "createdAt": "2024-05-13T07:55:30Z",
-      "url": "https://github.com/codervivek5/VigyBag/issues/1029",
-      "number": 1029,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "VigyBag",
-        "url": "https://github.com/codervivek5/VigyBag",
-        "owner": {
-          "login": "codervivek5",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/62784060?u=30e6a67dcef41b0aa202877fb0654fd3f609ffe6&v=4",
-          "url": "https://github.com/codervivek5"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJh2zd86InDww",
-      "closed": false,
-      "title": "[Game]: Staring is not giving out of 5",
-      "createdAt": "2024-05-13T06:32:05Z",
-      "url": "https://github.com/ChromeGaming/GameSphere/issues/938",
-      "number": 938,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "GameSphere",
-        "url": "https://github.com/ChromeGaming/GameSphere",
-        "owner": {
-          "login": "ChromeGaming",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
-          "url": "https://github.com/ChromeGaming"
-        }
-      }
-    }
-  ],
-  "open": 32,
-  "closed": 68,
-  "totalCount": 100
+    "data": [
+        {
+            "id": "I_kwDOI_OvOs6M9hU6",
+            "closed": true,
+            "title": "🧑‍💻: Adding more social media icons",
+            "createdAt": "2024-06-20T17:34:42Z",
+            "url": "https://github.com/Avdhesh-Varshney/pjt-blog/issues/364",
+            "number": 364,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "pjt-blog",
+                "url": "https://github.com/Avdhesh-Varshney/pjt-blog",
+                "owner": {
+                    "login": "Avdhesh-Varshney",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114330097?u=3371844471ca9660c51b04450ee43291919d3822&v=4",
+                    "url": "https://github.com/Avdhesh-Varshney"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHxrekM6MufTb",
+            "closed": false,
+            "title": "💡[FEATURE]: In blog section there is linkedin icon but other section doesn't have",
+            "createdAt": "2024-06-19T01:04:28Z",
+            "url": "https://github.com/akshitagupta15june/PetMe/issues/1870",
+            "number": 1870,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "PetMe",
+                "url": "https://github.com/akshitagupta15june/PetMe",
+                "owner": {
+                    "login": "akshitagupta15june",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
+                    "url": "https://github.com/akshitagupta15june"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKXGWj86MpGtO",
+            "closed": false,
+            "title": "adding logo to the website and the title have to change",
+            "createdAt": "2024-06-18T11:05:19Z",
+            "url": "https://github.com/jaibhedia/ChainzRegistry/issues/59",
+            "number": 59,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "ChainzRegistry",
+                "url": "https://github.com/jaibhedia/ChainzRegistry",
+                "owner": {
+                    "login": "jaibhedia",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57904885?u=403f09ff26a530d91d20f559e9a5c2bade814321&v=4",
+                    "url": "https://github.com/jaibhedia"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLgcKas6MlWTn",
+            "closed": true,
+            "title": "[Feature Request]: add social media icons ",
+            "createdAt": "2024-06-18T01:11:26Z",
+            "url": "https://github.com/heysubinoy/clippy/issues/70",
+            "number": 70,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "clippy",
+                "url": "https://github.com/heysubinoy/clippy",
+                "owner": {
+                    "login": "heysubinoy",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/115915591?u=d1413bf4ffd31381b020d7e031f53fa1e6fd34a4&v=4",
+                    "url": "https://github.com/heysubinoy"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLxMJS86MhPU4",
+            "closed": true,
+            "title": "improve the footer",
+            "createdAt": "2024-06-17T14:40:47Z",
+            "url": "https://github.com/arghadipmanna101/Flipkart_Clone/issues/1253",
+            "number": 1253,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Flipkart_Clone",
+                "url": "https://github.com/arghadipmanna101/Flipkart_Clone",
+                "owner": {
+                    "login": "arghadipmanna101",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/130065095?u=09b7ab919c0762fc93ff48985d7a84313ddfd7dc&v=4",
+                    "url": "https://github.com/arghadipmanna101"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJ6Wpt86MhH9Q",
+            "closed": true,
+            "title": "[Feature Request]: add a logo to the career crafters",
+            "createdAt": "2024-06-17T14:26:41Z",
+            "url": "https://github.com/apu52/METAVERSE/issues/806",
+            "number": 806,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "METAVERSE",
+                "url": "https://github.com/apu52/METAVERSE",
+                "owner": {
+                    "login": "apu52",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+                    "url": "https://github.com/apu52"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLWYCzM6Ma4kx",
+            "closed": true,
+            "title": "[Feature]: add logo to the page",
+            "createdAt": "2024-06-16T16:15:29Z",
+            "url": "https://github.com/Indie-Kart/ecommerce-store/issues/125",
+            "number": 125,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "ecommerce-store",
+                "url": "https://github.com/Indie-Kart/ecommerce-store",
+                "owner": {
+                    "login": "Indie-Kart",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/159432359?v=4",
+                    "url": "https://github.com/Indie-Kart"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL7P-qM6MZEsG",
+            "closed": true,
+            "title": "improve the footer",
+            "createdAt": "2024-06-16T02:23:29Z",
+            "url": "https://github.com/adarsh-singh01/PrithWe/issues/145",
+            "number": 145,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "PrithWe",
+                "url": "https://github.com/adarsh-singh01/PrithWe",
+                "owner": {
+                    "login": "adarsh-singh01",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/143992541?u=40a931d2e0cc039f69f61f9c3b17d6f2e7e1672d&v=4",
+                    "url": "https://github.com/adarsh-singh01"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL2VN_M6MZENl",
+            "closed": false,
+            "title": "improve the footer  ",
+            "createdAt": "2024-06-16T02:14:29Z",
+            "url": "https://github.com/BamaCharanChhandogi/Diabetes-Prediction/issues/102",
+            "number": 102,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Diabetes-Prediction",
+                "url": "https://github.com/BamaCharanChhandogi/Diabetes-Prediction",
+                "owner": {
+                    "login": "BamaCharanChhandogi",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/69814563?u=fd0ce10726585d8f7d233f64ab9f1639da647bb6&v=4",
+                    "url": "https://github.com/BamaCharanChhandogi"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLwAL086MVYNu",
+            "closed": false,
+            "title": "add a logo to the page",
+            "createdAt": "2024-06-15T02:22:21Z",
+            "url": "https://github.com/devxprite/resumave/issues/26",
+            "number": 26,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "resumave",
+                "url": "https://github.com/devxprite/resumave",
+                "owner": {
+                    "login": "devxprite",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/80192140?u=c77322f83a906e9e6a36fdfbca11800dd26a2884&v=4",
+                    "url": "https://github.com/devxprite"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL0TLiM6MK1pW",
+            "closed": false,
+            "title": "add discord logo in the footer and improve",
+            "createdAt": "2024-06-13T17:05:33Z",
+            "url": "https://github.com/Sayak-Bhunia/mystory/issues/252",
+            "number": 252,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "mystory",
+                "url": "https://github.com/Sayak-Bhunia/mystory",
+                "owner": {
+                    "login": "Sayak-Bhunia",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/110457746?u=de6c14b6842103a464b61ad0ec59cc856ee292f0&v=4",
+                    "url": "https://github.com/Sayak-Bhunia"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLSKYns6L91WD",
+            "closed": false,
+            "title": "add new discord logo to share the link",
+            "createdAt": "2024-06-12T09:10:36Z",
+            "url": "https://github.com/urstrulynishkarsh/ReactChat/issues/192",
+            "number": 192,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "ReactChat",
+                "url": "https://github.com/urstrulynishkarsh/ReactChat",
+                "owner": {
+                    "login": "urstrulynishkarsh",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/97511886?u=02597efcd8c76704c835ae3f879646f079f167db&v=4",
+                    "url": "https://github.com/urstrulynishkarsh"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJjFLKs6L9MtG",
+            "closed": true,
+            "title": "improve the footer ",
+            "createdAt": "2024-06-12T07:51:04Z",
+            "url": "https://github.com/Sanchitbajaj02/palettegram/issues/372",
+            "number": 372,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "palettegram",
+                "url": "https://github.com/Sanchitbajaj02/palettegram",
+                "owner": {
+                    "login": "Sanchitbajaj02",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55249639?u=559dec8f2f97aacfcebc09a05d8d92526ce9fbda&v=4",
+                    "url": "https://github.com/Sanchitbajaj02"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLdz4B86L7Yy4",
+            "closed": true,
+            "title": "in about us section text is not appearing and there is hover effect",
+            "createdAt": "2024-06-12T01:43:22Z",
+            "url": "https://github.com/anuragverma108/SwapReads/issues/1748",
+            "number": 1748,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "SwapReads",
+                "url": "https://github.com/anuragverma108/SwapReads",
+                "owner": {
+                    "login": "anuragverma108",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
+                    "url": "https://github.com/anuragverma108"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLNSXwM6L7QEf",
+            "closed": true,
+            "title": "add discord logo to the page",
+            "createdAt": "2024-06-12T01:16:44Z",
+            "url": "https://github.com/sk66641/Random-Disco-Light-Simulator/issues/239",
+            "number": 239,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Random-Disco-Light-Simulator",
+                "url": "https://github.com/sk66641/Random-Disco-Light-Simulator",
+                "owner": {
+                    "login": "sk66641",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/145834771?u=186ea234253023f008a600e0c8ebb16c2f755c50&v=4",
+                    "url": "https://github.com/sk66641"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKcBd0M6L7N-P",
+            "closed": true,
+            "title": "add copyright and hover the footer of the text",
+            "createdAt": "2024-06-12T01:06:41Z",
+            "url": "https://github.com/harshalhonde21/EcommerceSpectastyle/issues/405",
+            "number": 405,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "EcommerceSpectastyle",
+                "url": "https://github.com/harshalhonde21/EcommerceSpectastyle",
+                "owner": {
+                    "login": "harshalhonde21",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/105191619?u=bf7b3e7fc098498b90a5a43d7bf98c2a3ed3533d&v=4",
+                    "url": "https://github.com/harshalhonde21"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKxHUdM6LyS3d",
+            "closed": false,
+            "title": "add more social media icons and hover it different colors",
+            "createdAt": "2024-06-11T02:11:39Z",
+            "url": "https://github.com/growupanand/ConvoForm/issues/279",
+            "number": 279,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "ConvoForm",
+                "url": "https://github.com/growupanand/ConvoForm",
+                "owner": {
+                    "login": "growupanand",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/29487686?u=3e0760bfc049260c7318022fde69d6a82b3d00d2&v=4",
+                    "url": "https://github.com/growupanand"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLrXQ0M6LyPHh",
+            "closed": true,
+            "title": "improve the footer with hover effects and more social media icons ",
+            "createdAt": "2024-06-11T02:03:43Z",
+            "url": "https://github.com/subhadeeproy3902/BloxAI/issues/263",
+            "number": 263,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "BloxAI",
+                "url": "https://github.com/subhadeeproy3902/BloxAI",
+                "owner": {
+                    "login": "subhadeeproy3902",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/111780029?u=8b7fd0e2f8b332d0d0e1e4f63db22ec1df2fc6d6&v=4",
+                    "url": "https://github.com/subhadeeproy3902"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOI2zBxs6LyL3i",
+            "closed": true,
+            "title": "improve the footer ",
+            "createdAt": "2024-06-11T01:54:31Z",
+            "url": "https://github.com/Clueless-Community/scrape-up/issues/1114",
+            "number": 1114,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "scrape-up",
+                "url": "https://github.com/Clueless-Community/scrape-up",
+                "owner": {
+                    "login": "Clueless-Community",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/99969752?v=4",
+                    "url": "https://github.com/Clueless-Community"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJ6Wpt86LyIn7",
+            "closed": true,
+            "title": "adding favicon to the career crafters and title name to change",
+            "createdAt": "2024-06-11T01:47:05Z",
+            "url": "https://github.com/apu52/METAVERSE/issues/768",
+            "number": 768,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "METAVERSE",
+                "url": "https://github.com/apu52/METAVERSE",
+                "owner": {
+                    "login": "apu52",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+                    "url": "https://github.com/apu52"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL5BElM6LyCTc",
+            "closed": true,
+            "title": "adding logo to the page",
+            "createdAt": "2024-06-11T01:33:10Z",
+            "url": "https://github.com/avinashkranjan/logsuite/issues/32",
+            "number": 32,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "logsuite",
+                "url": "https://github.com/avinashkranjan/logsuite",
+                "owner": {
+                    "login": "avinashkranjan",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/55796944?u=311aa421cc46a4604d55f6d22704eb8276b0802c&v=4",
+                    "url": "https://github.com/avinashkranjan"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJx-bBM6Lt400",
+            "closed": false,
+            "title": "adding social media icons",
+            "createdAt": "2024-06-10T14:23:41Z",
+            "url": "https://github.com/SyedImtiyaz-1/GetTechProjects/issues/785",
+            "number": 785,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "GetTechProjects",
+                "url": "https://github.com/SyedImtiyaz-1/GetTechProjects",
+                "owner": {
+                    "login": "SyedImtiyaz-1",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/121503426?u=0737ad2135f177f58f21b635729cf15343de8c03&v=4",
+                    "url": "https://github.com/SyedImtiyaz-1"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLDmgV86Lt1o2",
+            "closed": true,
+            "title": "add more social media logos",
+            "createdAt": "2024-06-10T14:18:12Z",
+            "url": "https://github.com/ashutosh-rath02/git-re/issues/273",
+            "number": 273,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "git-re",
+                "url": "https://github.com/ashutosh-rath02/git-re",
+                "owner": {
+                    "login": "ashutosh-rath02",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/85403534?u=6ef9432d202ed6347add2ba9205966cafafb464d&v=4",
+                    "url": "https://github.com/ashutosh-rath02"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL882Ps6Ltx3B",
+            "closed": false,
+            "title": "logo is missing in the navbar",
+            "createdAt": "2024-06-10T14:11:36Z",
+            "url": "https://github.com/punyakrit/social-share/issues/113",
+            "number": 113,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/74537549?u=9ef7dec88640fb5bd18a7a03927a423c0e6c36dc&v=4",
+                        "name": "V Meenakshi Iyer",
+                        "url": "https://github.com/meenakshiiyer2531"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "social-share",
+                "url": "https://github.com/punyakrit/social-share",
+                "owner": {
+                    "login": "punyakrit",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/67222925?u=8e0fb8a4d21f19ad77fd52f40095c40e02d729f2&v=4",
+                    "url": "https://github.com/punyakrit"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJk-Rl86Ltqym",
+            "closed": true,
+            "title": "add favicon and the logo in the navbar of the page",
+            "createdAt": "2024-06-10T13:59:12Z",
+            "url": "https://github.com/abhijeetnishal/Password-Shield/issues/125",
+            "number": 125,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Password-Shield",
+                "url": "https://github.com/abhijeetnishal/Password-Shield",
+                "owner": {
+                    "login": "abhijeetnishal",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/83833440?u=a1c23746df27ccc9523baa342150047a4d26ad11&v=4",
+                    "url": "https://github.com/abhijeetnishal"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJk-Rl86Ltonu",
+            "closed": true,
+            "title": "add favicon and the logo in the navba",
+            "createdAt": "2024-06-10T13:55:49Z",
+            "url": "https://github.com/abhijeetnishal/Password-Shield/issues/124",
+            "number": 124,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Password-Shield",
+                "url": "https://github.com/abhijeetnishal/Password-Shield",
+                "owner": {
+                    "login": "abhijeetnishal",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/83833440?u=a1c23746df27ccc9523baa342150047a4d26ad11&v=4",
+                    "url": "https://github.com/abhijeetnishal"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLi87r86LmTLx",
+            "closed": false,
+            "title": "adding more social media links in the footer ",
+            "createdAt": "2024-06-09T07:29:45Z",
+            "url": "https://github.com/AbhiDiva96/75per/issues/110",
+            "number": 110,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "75per",
+                "url": "https://github.com/AbhiDiva96/75per",
+                "owner": {
+                    "login": "AbhiDiva96",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/112077897?u=721ad396e826a3a5d870f27684d99d524eb7aaa4&v=4",
+                    "url": "https://github.com/AbhiDiva96"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKGN9F86LmSxD",
+            "closed": true,
+            "title": "Adding the logo in the navbar",
+            "createdAt": "2024-06-09T07:25:31Z",
+            "url": "https://github.com/singhJasvinder101/MyBlog/issues/99",
+            "number": 99,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "MyBlog",
+                "url": "https://github.com/singhJasvinder101/MyBlog",
+                "owner": {
+                    "login": "singhJasvinder101",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/131908922?u=e18eeb756947a9c850452f10a83e5295bc2dfd14&v=4",
+                    "url": "https://github.com/singhJasvinder101"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLuHGaM6LmSdS",
+            "closed": true,
+            "title": "improve footer of the devpost",
+            "createdAt": "2024-06-09T07:22:05Z",
+            "url": "https://github.com/SurajSanap/College.ai-main/issues/84",
+            "number": 84,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "College.ai-main",
+                "url": "https://github.com/SurajSanap/College.ai-main",
+                "owner": {
+                    "login": "SurajSanap",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/101057653?u=b82b6a0542fc8867f7f428185ab07ce152d7d538&v=4",
+                    "url": "https://github.com/SurajSanap"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJY8CZc6LmR-n",
+            "closed": true,
+            "title": "Adding title in the navbar",
+            "createdAt": "2024-06-09T07:16:21Z",
+            "url": "https://github.com/ArnabChatterjee20k/PickPalette-PaletteFromImage/issues/45",
+            "number": 45,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "PickPalette-PaletteFromImage",
+                "url": "https://github.com/ArnabChatterjee20k/PickPalette-PaletteFromImage",
+                "owner": {
+                    "login": "ArnabChatterjee20k",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/83803257?u=25f1aa03ccb1308c0a39587f5eba69a25cf455eb&v=4",
+                    "url": "https://github.com/ArnabChatterjee20k"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKahMTs6LmRn0",
+            "closed": true,
+            "title": "add logo to the main page",
+            "createdAt": "2024-06-09T07:12:29Z",
+            "url": "https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/issues/498",
+            "number": 498,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "RAPIDOC-HEALTHCARE-WEBSITE-",
+                "url": "https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-",
+                "owner": {
+                    "login": "Anishkagupta04",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/170700171?u=5c3b4b867348870d909ebb4189e1486fb9c6381f&v=4",
+                    "url": "https://github.com/Anishkagupta04"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKVT6086LmRJl",
+            "closed": true,
+            "title": "add hover effects in the footer",
+            "createdAt": "2024-06-09T07:09:28Z",
+            "url": "https://github.com/SUGAM-ARORA/UniCollab/issues/258",
+            "number": 258,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "UniCollab",
+                "url": "https://github.com/SUGAM-ARORA/UniCollab",
+                "owner": {
+                    "login": "SUGAM-ARORA",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/96546088?u=c31e392190f38335bc50cec747a0b7ba1b38cc2d&v=4",
+                    "url": "https://github.com/SUGAM-ARORA"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLxJ_v86LmQH9",
+            "closed": false,
+            "title": "adding title and logo in the navbar ",
+            "createdAt": "2024-06-09T06:56:56Z",
+            "url": "https://github.com/Akshatchaube01/TimeWarp/issues/244",
+            "number": 244,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "TimeWarp",
+                "url": "https://github.com/Akshatchaube01/TimeWarp",
+                "owner": {
+                    "login": "Akshatchaube01",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/92796050?u=2f0438df4605d3f87b01a2adbf5e7c4a854ebec9&v=4",
+                    "url": "https://github.com/Akshatchaube01"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL-uDvM6LmOxs",
+            "closed": true,
+            "title": "add logo in the navbar",
+            "createdAt": "2024-06-09T06:39:09Z",
+            "url": "https://github.com/VaibhavArora314/StyleShare/issues/154",
+            "number": 154,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "StyleShare",
+                "url": "https://github.com/VaibhavArora314/StyleShare",
+                "owner": {
+                    "login": "VaibhavArora314",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/84830429?u=c4921f62a4c022fd55cf5bac260cad11c78b3561&v=4",
+                    "url": "https://github.com/VaibhavArora314"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLNlxSM6LmMYG",
+            "closed": false,
+            "title": "adding discord logo and improve the footer text",
+            "createdAt": "2024-06-09T06:14:32Z",
+            "url": "https://github.com/MAVRICK-1/e-commerce_website/issues/369",
+            "number": 369,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "e-commerce_website",
+                "url": "https://github.com/MAVRICK-1/e-commerce_website",
+                "owner": {
+                    "login": "MAVRICK-1",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/146999057?u=f27962b99760dd798c6b332d77d267b673394745&v=4",
+                    "url": "https://github.com/MAVRICK-1"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL1WA6c6LmLk9",
+            "closed": true,
+            "title": "add more social media links to the page",
+            "createdAt": "2024-06-09T06:05:49Z",
+            "url": "https://github.com/Note-Vault/Note-Vault/issues/485",
+            "number": 485,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Note-Vault",
+                "url": "https://github.com/Note-Vault/Note-Vault",
+                "owner": {
+                    "login": "Note-Vault",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/168561109?v=4",
+                    "url": "https://github.com/Note-Vault"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOI9TtjM6LjpEM",
+            "closed": true,
+            "title": "add title in the navbar",
+            "createdAt": "2024-06-08T02:04:21Z",
+            "url": "https://github.com/Counselllor/Counsellor-Web/issues/681",
+            "number": 681,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Counsellor-Web",
+                "url": "https://github.com/Counselllor/Counsellor-Web",
+                "owner": {
+                    "login": "Counselllor",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/135118681?v=4",
+                    "url": "https://github.com/Counselllor"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL-uDvM6Ljnug",
+            "closed": true,
+            "title": "enhance the footer  ",
+            "createdAt": "2024-06-08T01:55:21Z",
+            "url": "https://github.com/VaibhavArora314/StyleShare/issues/143",
+            "number": 143,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "StyleShare",
+                "url": "https://github.com/VaibhavArora314/StyleShare",
+                "owner": {
+                    "login": "VaibhavArora314",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/84830429?u=c4921f62a4c022fd55cf5bac260cad11c78b3561&v=4",
+                    "url": "https://github.com/VaibhavArora314"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOIIggZc6LcPzT",
+            "closed": true,
+            "title": "add the logo to the main page ",
+            "createdAt": "2024-06-07T01:59:08Z",
+            "url": "https://github.com/animator/learn-python/issues/1041",
+            "number": 1041,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "learn-python",
+                "url": "https://github.com/animator/learn-python",
+                "owner": {
+                    "login": "animator",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/615622?u=af9d32fba6cb00ef9233d5b394ec0d711755770f&v=4",
+                    "url": "https://github.com/animator"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJ6Wpt86LcPWM",
+            "closed": true,
+            "title": "add logo to the Book_review_website and title in the navbar",
+            "createdAt": "2024-06-07T01:56:43Z",
+            "url": "https://github.com/apu52/METAVERSE/issues/754",
+            "number": 754,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "METAVERSE",
+                "url": "https://github.com/apu52/METAVERSE",
+                "owner": {
+                    "login": "apu52",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+                    "url": "https://github.com/apu52"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJAH4zs6LcKX5",
+            "closed": true,
+            "title": "add discord,github logo",
+            "createdAt": "2024-06-07T01:33:40Z",
+            "url": "https://github.com/codervivek5/VigyBag/issues/1311",
+            "number": 1311,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "VigyBag",
+                "url": "https://github.com/codervivek5/VigyBag",
+                "owner": {
+                    "login": "codervivek5",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/62784060?u=30e6a67dcef41b0aa202877fb0654fd3f609ffe6&v=4",
+                    "url": "https://github.com/codervivek5"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKahMTs6LcIPz",
+            "closed": true,
+            "title": "Adding the logo to the page",
+            "createdAt": "2024-06-07T01:22:15Z",
+            "url": "https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/issues/462",
+            "number": 462,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "RAPIDOC-HEALTHCARE-WEBSITE-",
+                "url": "https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-",
+                "owner": {
+                    "login": "Anishkagupta04",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/170700171?u=5c3b4b867348870d909ebb4189e1486fb9c6381f&v=4",
+                    "url": "https://github.com/Anishkagupta04"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJx-bBM6LcHPN",
+            "closed": false,
+            "title": "enhancement of the footer ",
+            "createdAt": "2024-06-07T01:16:44Z",
+            "url": "https://github.com/SyedImtiyaz-1/GetTechProjects/issues/721",
+            "number": 721,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "GetTechProjects",
+                "url": "https://github.com/SyedImtiyaz-1/GetTechProjects",
+                "owner": {
+                    "login": "SyedImtiyaz-1",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/121503426?u=0737ad2135f177f58f21b635729cf15343de8c03&v=4",
+                    "url": "https://github.com/SyedImtiyaz-1"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLyWK7c6LYTnQ",
+            "closed": false,
+            "title": "add cursor pointer ",
+            "createdAt": "2024-06-06T14:27:16Z",
+            "url": "https://github.com/ChromeGaming/Squard-line/issues/123",
+            "number": 123,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Squard-line",
+                "url": "https://github.com/ChromeGaming/Squard-line",
+                "owner": {
+                    "login": "ChromeGaming",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+                    "url": "https://github.com/ChromeGaming"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHxrekM6LYOKI",
+            "closed": false,
+            "title": "add the favicon logo in the donate page and add more social icon",
+            "createdAt": "2024-06-06T14:17:30Z",
+            "url": "https://github.com/akshitagupta15june/PetMe/issues/1774",
+            "number": 1774,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "PetMe",
+                "url": "https://github.com/akshitagupta15june/PetMe",
+                "owner": {
+                    "login": "akshitagupta15june",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
+                    "url": "https://github.com/akshitagupta15june"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLb-ugM6LVY6W",
+            "closed": true,
+            "title": "add more social media links and align copyright ",
+            "createdAt": "2024-06-06T08:21:39Z",
+            "url": "https://github.com/sethshivam11/campus-space/issues/49",
+            "number": 49,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "campus-space",
+                "url": "https://github.com/sethshivam11/campus-space",
+                "owner": {
+                    "login": "sethshivam11",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/130232913?u=f4e3e8ab57ace28d8be2295a4c0852c45ab4caa1&v=4",
+                    "url": "https://github.com/sethshivam11"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJaFnDM6LQjM6",
+            "closed": true,
+            "title": "add discord logo",
+            "createdAt": "2024-06-05T16:40:25Z",
+            "url": "https://github.com/JAYESHBATRA/Virtuo-Learn/issues/391",
+            "number": 391,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Virtuo-Learn",
+                "url": "https://github.com/JAYESHBATRA/Virtuo-Learn",
+                "owner": {
+                    "login": "JAYESHBATRA",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/112322302?u=60d0c28faf602849312e983daae2ee0d0acd00ad&v=4",
+                    "url": "https://github.com/JAYESHBATRA"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKt3Qos6LQfvY",
+            "closed": true,
+            "title": "hover LinkedIn icon and remove underline",
+            "createdAt": "2024-06-05T16:31:42Z",
+            "url": "https://github.com/khushi-joshi-05/Food-ordering-website/issues/970",
+            "number": 970,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Food-ordering-website",
+                "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
+                "owner": {
+                    "login": "khushi-joshi-05",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
+                    "url": "https://github.com/khushi-joshi-05"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOK-7o9s6LQdWK",
+            "closed": true,
+            "title": "hover the footer logo's",
+            "createdAt": "2024-06-05T16:26:07Z",
+            "url": "https://github.com/4darsh-Dev/CogniGaurd/issues/52",
+            "number": 52,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "CogniGaurd",
+                "url": "https://github.com/4darsh-Dev/CogniGaurd",
+                "owner": {
+                    "login": "4darsh-Dev",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/109789509?u=c65d7a696d2a67ad2ccd60914f68788ffd67a1d9&v=4",
+                    "url": "https://github.com/4darsh-Dev"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKyQcmc6LOA9k",
+            "closed": true,
+            "title": "FEATURE: add more social media ",
+            "createdAt": "2024-06-05T11:55:55Z",
+            "url": "https://github.com/piyushg-07/blogzen-OpenSource/issues/393",
+            "number": 393,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "blogzen-OpenSource",
+                "url": "https://github.com/piyushg-07/blogzen-OpenSource",
+                "owner": {
+                    "login": "piyushg-07",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/105561630?u=ccc556f107557eead9daa676ce1299e89de1bff8&v=4",
+                    "url": "https://github.com/piyushg-07"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLyWlj86LKYYg",
+            "closed": true,
+            "title": "[New Feature]:  add discord logo",
+            "createdAt": "2024-06-05T02:08:09Z",
+            "url": "https://github.com/ChromeGaming/Formation-Absent/issues/52",
+            "number": 52,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Formation-Absent",
+                "url": "https://github.com/ChromeGaming/Formation-Absent",
+                "owner": {
+                    "login": "ChromeGaming",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+                    "url": "https://github.com/ChromeGaming"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOFmYGZc6LBTFj",
+            "closed": true,
+            "title": "Title: add copyright ",
+            "createdAt": "2024-06-04T02:06:15Z",
+            "url": "https://github.com/swapnilsparsh/30DaysOfJavaScript/issues/1654",
+            "number": 1654,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "30DaysOfJavaScript",
+                "url": "https://github.com/swapnilsparsh/30DaysOfJavaScript",
+                "owner": {
+                    "login": "swapnilsparsh",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/69387608?u=8c32fa1ceb8f18cd89e2f969c77476229eec6994&v=4",
+                    "url": "https://github.com/swapnilsparsh"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKVT6086K2v3K",
+            "closed": false,
+            "title": "add discord logo ",
+            "createdAt": "2024-06-02T11:33:22Z",
+            "url": "https://github.com/SUGAM-ARORA/UniCollab/issues/208",
+            "number": 208,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "UniCollab",
+                "url": "https://github.com/SUGAM-ARORA/UniCollab",
+                "owner": {
+                    "login": "SUGAM-ARORA",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/96546088?u=c31e392190f38335bc50cec747a0b7ba1b38cc2d&v=4",
+                    "url": "https://github.com/SUGAM-ARORA"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOK3d9mc6K2vY2",
+            "closed": false,
+            "title": "add copyright to the footer",
+            "createdAt": "2024-06-02T11:28:27Z",
+            "url": "https://github.com/subhadipbhowmik/30-Days-Of-CPP/issues/128",
+            "number": 128,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "30-Days-Of-CPP",
+                "url": "https://github.com/subhadipbhowmik/30-Days-Of-CPP",
+                "owner": {
+                    "login": "subhadipbhowmik",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57017965?u=3b32b58a6a8940592f58cf50ca3ba633739e1658&v=4",
+                    "url": "https://github.com/subhadipbhowmik"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLzRboc6K2udQ",
+            "closed": true,
+            "title": "Feat: add social media icons in footer ",
+            "createdAt": "2024-06-02T11:18:31Z",
+            "url": "https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT/issues/109",
+            "number": 109,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "NEWS-AGGREGATOR-PROJECT",
+                "url": "https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT",
+                "owner": {
+                    "login": "SiddharthBahuguna",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/112819453?u=d60a3fe8f1f2109b13762ad5b33dcadc278c4edf&v=4",
+                    "url": "https://github.com/SiddharthBahuguna"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOI1olhc6K2t5E",
+            "closed": false,
+            "title": "add logo to the page",
+            "createdAt": "2024-06-02T11:12:23Z",
+            "url": "https://github.com/juhinagpure/Eduford-university/issues/292",
+            "number": 292,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Eduford-university",
+                "url": "https://github.com/juhinagpure/Eduford-university",
+                "owner": {
+                    "login": "juhinagpure",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/97795041?u=006e4913c170519aa6df3288ddcbb5e56a08bf46&v=4",
+                    "url": "https://github.com/juhinagpure"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLCm8JM6K2tKs",
+            "closed": false,
+            "title": "add logo to the page and hover the navbar",
+            "createdAt": "2024-06-02T11:05:26Z",
+            "url": "https://github.com/PranavBarthwal/cosmoXplore/issues/334",
+            "number": 334,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "cosmoXplore",
+                "url": "https://github.com/PranavBarthwal/cosmoXplore",
+                "owner": {
+                    "login": "PranavBarthwal",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/110532770?u=be3d1db5bd5a25bd2d553eb5593a3cf852907420&v=4",
+                    "url": "https://github.com/PranavBarthwal"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLCm8JM6K2tIj",
+            "closed": false,
+            "title": "add logo to the page and hover the navbar",
+            "createdAt": "2024-06-02T11:05:06Z",
+            "url": "https://github.com/PranavBarthwal/cosmoXplore/issues/333",
+            "number": 333,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "cosmoXplore",
+                "url": "https://github.com/PranavBarthwal/cosmoXplore",
+                "owner": {
+                    "login": "PranavBarthwal",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/110532770?u=be3d1db5bd5a25bd2d553eb5593a3cf852907420&v=4",
+                    "url": "https://github.com/PranavBarthwal"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKU4h_s6K2sgf",
+            "closed": true,
+            "title": "💡 [FEATURE] - missing favicon logo in about page",
+            "createdAt": "2024-06-02T10:58:44Z",
+            "url": "https://github.com/jfmartinz/ResourceHub/issues/730",
+            "number": 730,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "ResourceHub",
+                "url": "https://github.com/jfmartinz/ResourceHub",
+                "owner": {
+                    "login": "jfmartinz",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/129386460?u=c6ed5ef2f6ac95c5845a8cfe39dffdd9dc1697f8&v=4",
+                    "url": "https://github.com/jfmartinz"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJ7iP0s6K1WXs",
+            "closed": true,
+            "title": "Feature Request : in pricing page the footer support remove underline",
+            "createdAt": "2024-06-01T17:03:21Z",
+            "url": "https://github.com/apu52/Travel_Website/issues/678",
+            "number": 678,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Travel_Website",
+                "url": "https://github.com/apu52/Travel_Website",
+                "owner": {
+                    "login": "apu52",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+                    "url": "https://github.com/apu52"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLni3Lc6K1VEc",
+            "closed": false,
+            "title": "Feat: add git and hover the icons ",
+            "createdAt": "2024-06-01T16:50:24Z",
+            "url": "https://github.com/usha-madithati/esmart.github.io/issues/185",
+            "number": 185,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "esmart.github.io",
+                "url": "https://github.com/usha-madithati/esmart.github.io",
+                "owner": {
+                    "login": "usha-madithati",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/165480939?v=4",
+                    "url": "https://github.com/usha-madithati"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOL6dQWs6K1UU5",
+            "closed": true,
+            "title": "💡[FEATURE] hover the navbar and footer social media icons",
+            "createdAt": "2024-06-01T16:42:45Z",
+            "url": "https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/issues/151",
+            "number": 151,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "StudyNotion-An-Online-Education-Platform",
+                "url": "https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform",
+                "owner": {
+                    "login": "Muskansahuincredible",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/113519369?u=8a8fa12b4cc959e59dc274cb1f60df536e14683d&v=4",
+                    "url": "https://github.com/Muskansahuincredible"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKiBaxc6K1ReX",
+            "closed": true,
+            "title": "[FEATURE] add logo beside the wanderlust in navbarr",
+            "createdAt": "2024-06-01T16:16:36Z",
+            "url": "https://github.com/krishnaacharyaa/wanderlust/issues/387",
+            "number": 387,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "wanderlust",
+                "url": "https://github.com/krishnaacharyaa/wanderlust",
+                "owner": {
+                    "login": "krishnaacharyaa",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/116620586?u=4df58563e45c60d9789b164bfdf0358457587fc0&v=4",
+                    "url": "https://github.com/krishnaacharyaa"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHxrekM6K1QU3",
+            "closed": false,
+            "title": "💡[FEATURE]: add logo petme to the donate page and add  discord ,LinkedIn logo in footer ",
+            "createdAt": "2024-06-01T16:06:13Z",
+            "url": "https://github.com/akshitagupta15june/PetMe/issues/1697",
+            "number": 1697,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "PetMe",
+                "url": "https://github.com/akshitagupta15june/PetMe",
+                "owner": {
+                    "login": "akshitagupta15june",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
+                    "url": "https://github.com/akshitagupta15june"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLIhVM86K1O4i",
+            "closed": true,
+            "title": "add symbols for contact details and enhancement of the footer",
+            "createdAt": "2024-06-01T15:51:57Z",
+            "url": "https://github.com/ayush-that/FinVeda/issues/251",
+            "number": 251,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "FinVeda",
+                "url": "https://github.com/ayush-that/FinVeda",
+                "owner": {
+                    "login": "ayush-that",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/110257939?u=b724bbd7cc1a45e99f30385d0e37cfc1a172b225&v=4",
+                    "url": "https://github.com/ayush-that"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLxMJS86KzwhT",
+            "closed": true,
+            "title": "Feat: alignment of the social media links and add Instagram ",
+            "createdAt": "2024-06-01T02:16:07Z",
+            "url": "https://github.com/arghadipmanna101/Flipkart_Clone/issues/913",
+            "number": 913,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Flipkart_Clone",
+                "url": "https://github.com/arghadipmanna101/Flipkart_Clone",
+                "owner": {
+                    "login": "arghadipmanna101",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/130065095?u=09b7ab919c0762fc93ff48985d7a84313ddfd7dc&v=4",
+                    "url": "https://github.com/arghadipmanna101"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJfwqqM6Kzvjf",
+            "closed": true,
+            "title": "[Enhancement]:  Snake water Gun game main page is to change and add water pic to the water button ",
+            "createdAt": "2024-06-01T02:09:03Z",
+            "url": "https://github.com/kunjgit/GameZone/issues/4030",
+            "number": 4030,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "GameZone",
+                "url": "https://github.com/kunjgit/GameZone",
+                "owner": {
+                    "login": "kunjgit",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
+                    "url": "https://github.com/kunjgit"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKNd9_86KxtaG",
+            "closed": false,
+            "title": "hover the social media icons in footer",
+            "createdAt": "2024-05-31T17:25:08Z",
+            "url": "https://github.com/ashutoshgithubs/iemhacks_DEV-G/issues/128",
+            "number": 128,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "iemhacks_DEV-G",
+                "url": "https://github.com/ashutoshgithubs/iemhacks_DEV-G",
+                "owner": {
+                    "login": "ashutoshgithubs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/97340498?u=d8999d1110cdd635543b785727df1a0a322c8a51&v=4",
+                    "url": "https://github.com/ashutoshgithubs"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLssbQs6KxpkD",
+            "closed": true,
+            "title": "Feat: add discord icon and hover the quicks link ",
+            "createdAt": "2024-05-31T17:16:51Z",
+            "url": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork/issues/612",
+            "number": 612,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "AgriLearnNetwork",
+                "url": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork",
+                "owner": {
+                    "login": "Suchitra-Sahoo",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/123376847?u=3f270bee913c00799eb3dfbd522169e00391f0a9&v=4",
+                    "url": "https://github.com/Suchitra-Sahoo"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJ6Wpt86KxndF",
+            "closed": true,
+            "title": "Feature_Request add Food website logo",
+            "createdAt": "2024-05-31T17:10:19Z",
+            "url": "https://github.com/apu52/METAVERSE/issues/696",
+            "number": 696,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "METAVERSE",
+                "url": "https://github.com/apu52/METAVERSE",
+                "owner": {
+                    "login": "apu52",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+                    "url": "https://github.com/apu52"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLgP_es6KxmBU",
+            "closed": false,
+            "title": "[New Internship/Hackathon]: Student Intern - Intel Corporation",
+            "createdAt": "2024-05-31T17:06:17Z",
+            "url": "https://github.com/HimanshuNarware/CareerZunction_Intern/issues/272",
+            "number": 272,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "CareerZunction_Intern",
+                "url": "https://github.com/HimanshuNarware/CareerZunction_Intern",
+                "owner": {
+                    "login": "HimanshuNarware",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/83147410?u=b83d4739fd5c83388fab447796358dd52fd690ab&v=4",
+                    "url": "https://github.com/HimanshuNarware"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKt3Qos6KoKay",
+            "closed": true,
+            "title": "add icon of foodie in the navbar",
+            "createdAt": "2024-05-30T14:10:12Z",
+            "url": "https://github.com/khushi-joshi-05/Food-ordering-website/issues/665",
+            "number": 665,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Food-ordering-website",
+                "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
+                "owner": {
+                    "login": "khushi-joshi-05",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
+                    "url": "https://github.com/khushi-joshi-05"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLp8sTM6KKo29",
+            "closed": true,
+            "title": "Hover of the social media links",
+            "createdAt": "2024-05-27T01:21:30Z",
+            "url": "https://github.com/Priyaaa1/StartConnect-Hub/issues/284",
+            "number": 284,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "StartConnect-Hub",
+                "url": "https://github.com/Priyaaa1/StartConnect-Hub",
+                "owner": {
+                    "login": "Priyaaa1",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/105431748?u=82965d634a194e49aa9f9ea232e9625b63987e06&v=4",
+                    "url": "https://github.com/Priyaaa1"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKt3Qos6KKlXZ",
+            "closed": true,
+            "title": "Hover of the footer ",
+            "createdAt": "2024-05-27T01:03:51Z",
+            "url": "https://github.com/khushi-joshi-05/Food-ordering-website/issues/588",
+            "number": 588,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Food-ordering-website",
+                "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
+                "owner": {
+                    "login": "khushi-joshi-05",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
+                    "url": "https://github.com/khushi-joshi-05"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKIg9rs6KIBQ_",
+            "closed": true,
+            "title": "Feat: Footer social media icons are small not stylized and title page icon favicon not displaying",
+            "createdAt": "2024-05-26T00:52:30Z",
+            "url": "https://github.com/Anushkabh/krishiconnect/issues/331",
+            "number": 331,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "krishiconnect",
+                "url": "https://github.com/Anushkabh/krishiconnect",
+                "owner": {
+                    "login": "Anushkabh",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/99523033?v=4",
+                    "url": "https://github.com/Anushkabh"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJN3pAs6KIAmH",
+            "closed": false,
+            "title": "[FEATURE REQUEST]  Add more social media ",
+            "createdAt": "2024-05-26T00:45:38Z",
+            "url": "https://github.com/akshitagupta15june/Moksh/issues/1627",
+            "number": 1627,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Moksh",
+                "url": "https://github.com/akshitagupta15june/Moksh",
+                "owner": {
+                    "login": "akshitagupta15june",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
+                    "url": "https://github.com/akshitagupta15june"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLgP_es6J7wI7",
+            "closed": false,
+            "title": "[Feature Request]: Enchance the footer by adding copyright",
+            "createdAt": "2024-05-24T01:42:22Z",
+            "url": "https://github.com/HimanshuNarware/CareerZunction_Intern/issues/229",
+            "number": 229,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "CareerZunction_Intern",
+                "url": "https://github.com/HimanshuNarware/CareerZunction_Intern",
+                "owner": {
+                    "login": "HimanshuNarware",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/83147410?u=b83d4739fd5c83388fab447796358dd52fd690ab&v=4",
+                    "url": "https://github.com/HimanshuNarware"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJ6Wpt86J7tyI",
+            "closed": true,
+            "title": "Feature_Request of the food website  footer ",
+            "createdAt": "2024-05-24T01:32:18Z",
+            "url": "https://github.com/apu52/METAVERSE/issues/670",
+            "number": 670,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "METAVERSE",
+                "url": "https://github.com/apu52/METAVERSE",
+                "owner": {
+                    "login": "apu52",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+                    "url": "https://github.com/apu52"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLm6FLs6J7qv4",
+            "closed": false,
+            "title": "[Feature Request]:Enhancement  of Footer ",
+            "createdAt": "2024-05-24T01:20:39Z",
+            "url": "https://github.com/Mansi168/EmoWell/issues/150",
+            "number": 150,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "EmoWell",
+                "url": "https://github.com/Mansi168/EmoWell",
+                "owner": {
+                    "login": "Mansi168",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/99342612?u=2a91a9054f9b672e951f1efd14e5d38deae136d6&v=4",
+                    "url": "https://github.com/Mansi168"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLyWK7c6J7pOj",
+            "closed": true,
+            "title": "[Enhancement]:add favicon to the page",
+            "createdAt": "2024-05-24T01:14:36Z",
+            "url": "https://github.com/ChromeGaming/Squard-line/issues/74",
+            "number": 74,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Squard-line",
+                "url": "https://github.com/ChromeGaming/Squard-line",
+                "owner": {
+                    "login": "ChromeGaming",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+                    "url": "https://github.com/ChromeGaming"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJ6Wpt86Jynpj",
+            "closed": true,
+            "title": "Icon of the food website and footer ",
+            "createdAt": "2024-05-23T01:14:50Z",
+            "url": "https://github.com/apu52/METAVERSE/issues/661",
+            "number": 661,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "METAVERSE",
+                "url": "https://github.com/apu52/METAVERSE",
+                "owner": {
+                    "login": "apu52",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+                    "url": "https://github.com/apu52"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOHxrekM6JgyPh",
+            "closed": false,
+            "title": "add favicon to the pet news page.",
+            "createdAt": "2024-05-21T01:25:58Z",
+            "url": "https://github.com/akshitagupta15june/PetMe/issues/1608",
+            "number": 1608,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "PetMe",
+                "url": "https://github.com/akshitagupta15june/PetMe",
+                "owner": {
+                    "login": "akshitagupta15june",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/57909583?u=5eb810c8a5de2b8188e952b51a8b650b5c142dcf&v=4",
+                    "url": "https://github.com/akshitagupta15june"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLfWMwc6JgvsB",
+            "closed": true,
+            "title": "[FEAT] Add Title to the page",
+            "createdAt": "2024-05-21T01:13:46Z",
+            "url": "https://github.com/singodiyashubham87/draw-it-out/issues/176",
+            "number": 176,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "draw-it-out",
+                "url": "https://github.com/singodiyashubham87/draw-it-out",
+                "owner": {
+                    "login": "singodiyashubham87",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/93720428?u=65f489b822ab7a7bf77b49fe22119d27d5485c36&v=4",
+                    "url": "https://github.com/singodiyashubham87"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLyWOoM6JguuF",
+            "closed": false,
+            "title": "[Enhancement]: Pointer as cursor",
+            "createdAt": "2024-05-21T01:08:49Z",
+            "url": "https://github.com/ChromeGaming/Spaceship-escort/issues/53",
+            "number": 53,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "Spaceship-escort",
+                "url": "https://github.com/ChromeGaming/Spaceship-escort",
+                "owner": {
+                    "login": "ChromeGaming",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+                    "url": "https://github.com/ChromeGaming"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKmjam86JgtKv",
+            "closed": true,
+            "title": "Icons of the navbar and title of the Page",
+            "createdAt": "2024-05-21T01:03:18Z",
+            "url": "https://github.com/Omkar-Sonawane-23/Tourism/issues/377",
+            "number": 377,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Tourism",
+                "url": "https://github.com/Omkar-Sonawane-23/Tourism",
+                "owner": {
+                    "login": "Omkar-Sonawane-23",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/130058150?u=a03c57128f36d01736833181fb24a687ee6b6c37&v=4",
+                    "url": "https://github.com/Omkar-Sonawane-23"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLs6Juc6JYarw",
+            "closed": true,
+            "title": "Feat: Add footer to the page  and  title to the navbar",
+            "createdAt": "2024-05-20T01:05:44Z",
+            "url": "https://github.com/Satyam1923/Spring-Music-Player/issues/140",
+            "number": 140,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Spring-Music-Player",
+                "url": "https://github.com/Satyam1923/Spring-Music-Player",
+                "owner": {
+                    "login": "Satyam1923",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/104068640?u=9760edec8b217d89c5a9c4605cf56a2fa8e0dfa7&v=4",
+                    "url": "https://github.com/Satyam1923"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLu_hac6JYYcT",
+            "closed": true,
+            "title": "[New Feature]: Add title to the navbar beside the home ",
+            "createdAt": "2024-05-20T00:52:24Z",
+            "url": "https://github.com/ChromeGaming/Physi-c-Tech/issues/75",
+            "number": 75,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "Physi-c-Tech",
+                "url": "https://github.com/ChromeGaming/Physi-c-Tech",
+                "owner": {
+                    "login": "ChromeGaming",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+                    "url": "https://github.com/ChromeGaming"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJrvI9M6JXoUn",
+            "closed": true,
+            "title": "Navbar and Footer",
+            "createdAt": "2024-05-19T15:56:05Z",
+            "url": "https://github.com/abhay-raj19/FitBody/issues/278",
+            "number": 278,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "FitBody",
+                "url": "https://github.com/abhay-raj19/FitBody",
+                "owner": {
+                    "login": "abhay-raj19",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/96302417?u=7c4543a97ae4512a1514f7d46af7bfec5fc12005&v=4",
+                    "url": "https://github.com/abhay-raj19"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLdz4B86JXn1A",
+            "closed": true,
+            "title": "Feat: Title of the navbar and enhancement of the footer",
+            "createdAt": "2024-05-19T15:50:34Z",
+            "url": "https://github.com/anuragverma108/SwapReads/issues/679",
+            "number": 679,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "SwapReads",
+                "url": "https://github.com/anuragverma108/SwapReads",
+                "owner": {
+                    "login": "anuragverma108",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
+                    "url": "https://github.com/anuragverma108"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKmmrIs6JXmzD",
+            "closed": false,
+            "title": "Icons of the navbar",
+            "createdAt": "2024-05-19T15:39:18Z",
+            "url": "https://github.com/Omkar-Sonawane-23/VedicVani/issues/170",
+            "number": 170,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "VedicVani",
+                "url": "https://github.com/Omkar-Sonawane-23/VedicVani",
+                "owner": {
+                    "login": "Omkar-Sonawane-23",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/130058150?u=a03c57128f36d01736833181fb24a687ee6b6c37&v=4",
+                    "url": "https://github.com/Omkar-Sonawane-23"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJfwqqM6JWdKi",
+            "closed": true,
+            "title": "[Enhancement]: simon game popup and icon to title of the page",
+            "createdAt": "2024-05-19T01:02:04Z",
+            "url": "https://github.com/kunjgit/GameZone/issues/3458",
+            "number": 3458,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/121346142?v=4",
+                        "name": "Thalla Jayanth",
+                        "url": "https://github.com/jayanththalla"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "GameZone",
+                "url": "https://github.com/kunjgit/GameZone",
+                "owner": {
+                    "login": "kunjgit",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
+                    "url": "https://github.com/kunjgit"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJfwqqM6JU7OM",
+            "closed": true,
+            "title": "[Enhancement]: Buttons and description make attractive",
+            "createdAt": "2024-05-18T09:40:42Z",
+            "url": "https://github.com/kunjgit/GameZone/issues/3430",
+            "number": 3430,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "GameZone",
+                "url": "https://github.com/kunjgit/GameZone",
+                "owner": {
+                    "login": "kunjgit",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
+                    "url": "https://github.com/kunjgit"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJfwqqM6JU6BQ",
+            "closed": true,
+            "title": "[Enhancement]:  simon game popup and make random play one is computer and other is user",
+            "createdAt": "2024-05-18T09:32:24Z",
+            "url": "https://github.com/kunjgit/GameZone/issues/3428",
+            "number": 3428,
+            "assignees": {
+                "nodes": [
+                    {
+                        "avatarUrl": "https://avatars.githubusercontent.com/u/96657297?u=b3b9699a09172e21ae6b8f519cb4346da8539fa3&v=4",
+                        "name": "mishika",
+                        "url": "https://github.com/mishikagithub"
+                    }
+                ]
+            },
+            "repository": {
+                "name": "GameZone",
+                "url": "https://github.com/kunjgit/GameZone",
+                "owner": {
+                    "login": "kunjgit",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
+                    "url": "https://github.com/kunjgit"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLIhVM86JChYf",
+            "closed": true,
+            "title": "footer section",
+            "createdAt": "2024-05-16T01:44:10Z",
+            "url": "https://github.com/ayush-that/FinVeda/issues/112",
+            "number": 112,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "FinVeda",
+                "url": "https://github.com/ayush-that/FinVeda",
+                "owner": {
+                    "login": "ayush-that",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/110257939?u=b724bbd7cc1a45e99f30385d0e37cfc1a172b225&v=4",
+                    "url": "https://github.com/ayush-that"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJISw-s6JCejC",
+            "closed": false,
+            "title": "navbar and add footer",
+            "createdAt": "2024-05-16T01:36:22Z",
+            "url": "https://github.com/bishalde/TaskMate/issues/49",
+            "number": 49,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "TaskMate",
+                "url": "https://github.com/bishalde/TaskMate",
+                "owner": {
+                    "login": "bishalde",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/67416966?u=101e3f7d80126603dab1f862a94dcec91a1ec870&v=4",
+                    "url": "https://github.com/bishalde"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOLssbQs6JCda5",
+            "closed": true,
+            "title": "Feat: navbar and cards",
+            "createdAt": "2024-05-16T01:30:51Z",
+            "url": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork/issues/312",
+            "number": 312,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "AgriLearnNetwork",
+                "url": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork",
+                "owner": {
+                    "login": "Suchitra-Sahoo",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/123376847?u=3f270bee913c00799eb3dfbd522169e00391f0a9&v=4",
+                    "url": "https://github.com/Suchitra-Sahoo"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKf6u2M6JCbFp",
+            "closed": true,
+            "title": "responsiveness of the page and footer",
+            "createdAt": "2024-05-16T01:19:13Z",
+            "url": "https://github.com/JiyaGupta-cs/ShopNex/issues/254",
+            "number": 254,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "ShopNex",
+                "url": "https://github.com/JiyaGupta-cs/ShopNex",
+                "owner": {
+                    "login": "JiyaGupta-cs",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/140608790?u=e0d82b651703c5b3d72bb1deb3ca89e4286079e1&v=4",
+                    "url": "https://github.com/JiyaGupta-cs"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOKyQcmc6JCZEw",
+            "closed": true,
+            "title": "body and footer",
+            "createdAt": "2024-05-16T01:08:40Z",
+            "url": "https://github.com/piyushg-07/blogzen-OpenSource/issues/204",
+            "number": 204,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "blogzen-OpenSource",
+                "url": "https://github.com/piyushg-07/blogzen-OpenSource",
+                "owner": {
+                    "login": "piyushg-07",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/105561630?u=ccc556f107557eead9daa676ce1299e89de1bff8&v=4",
+                    "url": "https://github.com/piyushg-07"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJAH4zs6InqYj",
+            "closed": true,
+            "title": "team section ",
+            "createdAt": "2024-05-13T07:55:30Z",
+            "url": "https://github.com/codervivek5/VigyBag/issues/1029",
+            "number": 1029,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "VigyBag",
+                "url": "https://github.com/codervivek5/VigyBag",
+                "owner": {
+                    "login": "codervivek5",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/62784060?u=30e6a67dcef41b0aa202877fb0654fd3f609ffe6&v=4",
+                    "url": "https://github.com/codervivek5"
+                }
+            }
+        },
+        {
+            "id": "I_kwDOJh2zd86InDww",
+            "closed": false,
+            "title": "[Game]: Staring is not giving out of 5",
+            "createdAt": "2024-05-13T06:32:05Z",
+            "url": "https://github.com/ChromeGaming/GameSphere/issues/938",
+            "number": 938,
+            "assignees": {
+                "nodes": []
+            },
+            "repository": {
+                "name": "GameSphere",
+                "url": "https://github.com/ChromeGaming/GameSphere",
+                "owner": {
+                    "login": "ChromeGaming",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+                    "url": "https://github.com/ChromeGaming"
+                }
+            }
+        }
+    ],
+    "open": 32,
+    "closed": 68,
+    "totalCount": 100
 }

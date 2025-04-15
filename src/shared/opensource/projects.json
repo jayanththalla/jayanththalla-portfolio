@@ -19,7 +19,7 @@
       "name": "Nike",
       "createdAt": "2024-08-31T13:17:29Z",
       "url": "https://github.com/jayanththalla/Nike",
-      "description": null,
+      "description": "Welcome to the Nike Clone project! This is a front-end replica of the Nike website, built using React and Tailwind CSS with Vite as the build tool",
       "isFork": false,
       "languages": [
         {
@@ -41,7 +41,7 @@
       "name": "School-CRM",
       "createdAt": "2024-09-08T13:40:50Z",
       "url": "https://github.com/jayanththalla/School-CRM",
-      "description": null,
+      "description": "Welcome to the School CRM System project! This system is designed to provide a smooth and intuitive experience for parents, students, and staff, focusing on student management and engagement. With our CRM, schools can enhance communication, ensure timely updates, and foster a better learning environment.",
       "isFork": false,
       "languages": [
         {
@@ -63,7 +63,7 @@
       "name": "donations",
       "createdAt": "2024-11-21T13:53:07Z",
       "url": "https://github.com/jayanththalla/donations",
-      "description": null,
+      "description": "A beautifully designed Donations platform that allows users to contribute to causes that matter. The app is clean, responsive, and optimized for a seamless giving experience.",
       "isFork": false,
       "languages": [
         {
@@ -81,7 +81,7 @@
       "name": "Travel",
       "createdAt": "2025-01-03T07:37:53Z",
       "url": "https://github.com/jayanththalla/Travel",
-      "description": null,
+      "description": "An elegant and user-friendly travel website designed to inspire and assist users in exploring beautiful destinations. It offers a smooth browsing experience, engaging visuals, and modern responsive UI",
       "isFork": false,
       "languages": [
         {
@@ -99,7 +99,7 @@
       "name": "androidApp",
       "createdAt": "2025-01-06T15:52:38Z",
       "url": "https://github.com/jayanththalla/androidApp",
-      "description": null,
+      "description": "An AI-powered web tool to analyze Android APKs and generate detailed security insights. Upload APK files and get a clear breakdown of permissions, vulnerabilities, and more — all from a sleek frontend.",
       "isFork": false,
       "languages": [
         {
