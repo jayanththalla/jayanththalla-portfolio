@@ -1,0 +1,1563 @@
+{
+  "data": [
+    {
+      "id": "PR_kwDOM5p1nM6GtENO",
+      "title": "Updated the Navbar",
+      "url": "https://github.com/Mujtabaa07/coffeeShop/pull/177",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70109255?u=11e5441d5bc19f8d515a4c6185ce2bc0663b3a82&v=4",
+        "url": "https://github.com/Mujtabaa07",
+        "login": "Mujtabaa07"
+      },
+      "createdAt": "2025-01-04T02:15:49Z",
+      "number": 177,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "coffeeShop",
+        "url": "https://github.com/Mujtabaa07/coffeeShop",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/70109255?u=11e5441d5bc19f8d515a4c6185ce2bc0663b3a82&v=4",
+          "login": "Mujtabaa07",
+          "url": "https://github.com/Mujtabaa07"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOM1WHMc6GoBgE",
+      "title": "Updated footer with aligned and improved text",
+      "url": "https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/23",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/160756794?u=6cd84918cf998b83714fe8e76bd5db68645b508c&v=4",
+        "url": "https://github.com/saismrutiranjan18",
+        "login": "saismrutiranjan18"
+      },
+      "createdAt": "2025-01-03T02:29:16Z",
+      "number": 23,
+      "changedFiles": 1,
+      "additions": 46,
+      "deletions": 42,
+      "baseRepository": {
+        "name": "Tiffin_Fusion",
+        "url": "https://github.com/saismrutiranjan18/Tiffin_Fusion",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/160756794?u=6cd84918cf998b83714fe8e76bd5db68645b508c&v=4",
+          "login": "saismrutiranjan18",
+          "url": "https://github.com/saismrutiranjan18"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ84GMc5_NRh8",
+      "title": "UI  of Footer is Changed",
+      "url": "https://github.com/gauravsingh1281/Rentalog.in--Frontend/pull/432",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-10-20T05:03:07Z",
+      "number": 432,
+      "changedFiles": 1,
+      "additions": 73,
+      "deletions": 89,
+      "baseRepository": {
+        "name": "Rentalog.in--Frontend",
+        "url": "https://github.com/gauravsingh1281/Rentalog.in--Frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/85905403?u=b55e41d3ed775b57109079975d3c20753d7942a3&v=4",
+          "login": "gauravsingh1281",
+          "url": "https://github.com/gauravsingh1281"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLdz4B85-1riE",
+      "title": "I have aligned the icons and text",
+      "url": "https://github.com/anuragverma108/SwapReads/pull/3560",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/161804629?u=581e133dd530affde27317bd8e97e132416b5ef2&v=4",
+        "url": "https://github.com/sailaja-adapa",
+        "login": "sailaja-adapa"
+      },
+      "createdAt": "2024-10-16T14:19:41Z",
+      "number": 3560,
+      "changedFiles": 1,
+      "additions": 16,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "SwapReads",
+        "url": "https://github.com/anuragverma108/SwapReads",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
+          "login": "anuragverma108",
+          "url": "https://github.com/anuragverma108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOK224hs5-Fh4N",
+      "title": "Footer UI is changed",
+      "url": "https://github.com/ajay-dhangar/algo/pull/359",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99037494?u=d1d687d2a139ec34b4bf19a51e9f961d47ae8494&v=4",
+        "url": "https://github.com/ajay-dhangar",
+        "login": "ajay-dhangar"
+      },
+      "createdAt": "2024-10-09T13:58:15Z",
+      "number": 359,
+      "changedFiles": 1,
+      "additions": 44,
+      "deletions": 102,
+      "baseRepository": {
+        "name": "algo",
+        "url": "https://github.com/ajay-dhangar/algo",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99037494?u=d1d687d2a139ec34b4bf19a51e9f961d47ae8494&v=4",
+          "login": "ajay-dhangar",
+          "url": "https://github.com/ajay-dhangar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMPOOVs599_G4",
+      "title": "footer ui is changed",
+      "url": "https://github.com/swaraj-das/Collect-your-GamingTools/pull/202",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-10-08T15:35:06Z",
+      "number": 202,
+      "changedFiles": 2,
+      "additions": 96,
+      "deletions": 92,
+      "baseRepository": {
+        "name": "Collect-your-GamingTools",
+        "url": "https://github.com/swaraj-das/Collect-your-GamingTools",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/151845349?u=d567ea96df45cb17a031719126a88db9be2c1b80&v=4",
+          "login": "swaraj-das",
+          "url": "https://github.com/swaraj-das"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMTJFF8590hqx",
+      "title": "Logo and titled are added in the page",
+      "url": "https://github.com/devxprite/star-weather/pull/22",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-10-07T13:51:58Z",
+      "number": 22,
+      "changedFiles": 3,
+      "additions": 14,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "star-weather",
+        "url": "https://github.com/devxprite/star-weather",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/80192140?u=c77322f83a906e9e6a36fdfbca11800dd26a2884&v=4",
+          "login": "devxprite",
+          "url": "https://github.com/devxprite"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMyFRoc59pe6o",
+      "title": "logo is added",
+      "url": "https://github.com/Tejashri-Taral/TrendTrove-Ecommerce/pull/118",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/160386036?u=8149069c7c6fa522c269b06a717ce9244292ba4b&v=4",
+        "url": "https://github.com/Tejashri-Taral",
+        "login": "Tejashri-Taral"
+      },
+      "createdAt": "2024-10-04T17:22:57Z",
+      "number": 118,
+      "changedFiles": 4,
+      "additions": 6,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "TrendTrove-Ecommerce",
+        "url": "https://github.com/Tejashri-Taral/TrendTrove-Ecommerce",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/160386036?u=8149069c7c6fa522c269b06a717ce9244292ba4b&v=4",
+          "login": "Tejashri-Taral",
+          "url": "https://github.com/Tejashri-Taral"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMRzff859pPO6",
+      "title": "Footer UI is changed",
+      "url": "https://github.com/manikumarreddyu/AgroTech-AI/pull/92",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/133508962?u=299bdfc174f10d92c8f73f94e80fee1e351662cb&v=4",
+        "url": "https://github.com/manikumarreddyu",
+        "login": "manikumarreddyu"
+      },
+      "createdAt": "2024-10-04T16:54:49Z",
+      "number": 92,
+      "changedFiles": 1,
+      "additions": 110,
+      "deletions": 101,
+      "baseRepository": {
+        "name": "AgroTech-AI",
+        "url": "https://github.com/manikumarreddyu/AgroTech-AI",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/133508962?u=299bdfc174f10d92c8f73f94e80fee1e351662cb&v=4",
+          "login": "manikumarreddyu",
+          "url": "https://github.com/manikumarreddyu"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMua6Js59ogFF",
+      "title": "footer UI changed",
+      "url": "https://github.com/subhadipbhowmik/bio-branch/pull/36",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-10-04T14:55:19Z",
+      "number": 36,
+      "changedFiles": 1,
+      "additions": 78,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "bio-branch",
+        "url": "https://github.com/subhadipbhowmik/bio-branch",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57017965?u=3b32b58a6a8940592f58cf50ca3ba633739e1658&v=4",
+          "login": "subhadipbhowmik",
+          "url": "https://github.com/subhadipbhowmik"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMM8Uy859fc2_",
+      "title": "The footer UI changed ",
+      "url": "https://github.com/SaranshBangar/Daneizo/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114401238?u=3e972b3b915607c2895fb6433d7f862f7c092a64&v=4",
+        "url": "https://github.com/SaranshBangar",
+        "login": "SaranshBangar"
+      },
+      "createdAt": "2024-10-03T11:59:05Z",
+      "number": 16,
+      "changedFiles": 1,
+      "additions": 147,
+      "deletions": 54,
+      "baseRepository": {
+        "name": "Daneizo",
+        "url": "https://github.com/SaranshBangar/Daneizo",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114401238?u=3e972b3b915607c2895fb6433d7f862f7c092a64&v=4",
+          "login": "SaranshBangar",
+          "url": "https://github.com/SaranshBangar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMM8Uy859V_RH",
+      "title": "footer has changed",
+      "url": "https://github.com/SaranshBangar/Daneizo/pull/11",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-10-02T08:13:29Z",
+      "number": 11,
+      "changedFiles": 1,
+      "additions": 78,
+      "deletions": 55,
+      "baseRepository": {
+        "name": "Daneizo",
+        "url": "https://github.com/SaranshBangar/Daneizo",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114401238?u=3e972b3b915607c2895fb6433d7f862f7c092a64&v=4",
+          "login": "SaranshBangar",
+          "url": "https://github.com/SaranshBangar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMZTxT859VoBV",
+      "title": "added logo",
+      "url": "https://github.com/TherkuTech/tturl/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112178257?u=f5d0f60430bbd50af279ceeac3462241494a6e49&v=4",
+        "url": "https://github.com/muruga21",
+        "login": "muruga21"
+      },
+      "createdAt": "2024-10-02T07:08:29Z",
+      "number": 9,
+      "changedFiles": 4,
+      "additions": 13,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "tturl",
+        "url": "https://github.com/TherkuTech/tturl",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/165937660?v=4",
+          "login": "TherkuTech",
+          "url": "https://github.com/TherkuTech"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMJpDis59U1nO",
+      "title": "added logo",
+      "url": "https://github.com/MitulSonagara/truth-tunnel/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95460188?u=bf835d20588276254f8a246ebee960910e706a47&v=4",
+        "url": "https://github.com/MitulSonagara",
+        "login": "MitulSonagara"
+      },
+      "createdAt": "2024-10-02T02:52:47Z",
+      "number": 4,
+      "changedFiles": 6,
+      "additions": 47,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "truth-tunnel",
+        "url": "https://github.com/MitulSonagara/truth-tunnel",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95460188?u=bf835d20588276254f8a246ebee960910e706a47&v=4",
+          "login": "MitulSonagara",
+          "url": "https://github.com/MitulSonagara"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOM4tEYs59SF0o",
+      "title": "logo is added",
+      "url": "https://github.com/ankit071105/Ticket-Booking/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/139707943?u=0e54270a4a2ae660ec803870ffc9ebbbe950f750&v=4",
+        "url": "https://github.com/ankit071105",
+        "login": "ankit071105"
+      },
+      "createdAt": "2024-10-01T16:47:42Z",
+      "number": 7,
+      "changedFiles": 1,
+      "additions": 69,
+      "deletions": 44,
+      "baseRepository": {
+        "name": "Ticket-Booking",
+        "url": "https://github.com/ankit071105/Ticket-Booking",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/139707943?u=0e54270a4a2ae660ec803870ffc9ebbbe950f750&v=4",
+          "login": "ankit071105",
+          "url": "https://github.com/ankit071105"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKWnFsc535a07",
+      "title": "Added the discord logo in the footer",
+      "url": "https://github.com/HimanshuNarware/Devlabs/pull/2884",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-08-09T01:54:03Z",
+      "number": 2884,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Devlabs",
+        "url": "https://github.com/HimanshuNarware/Devlabs",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/83147410?u=b83d4739fd5c83388fab447796358dd52fd690ab&v=4",
+          "login": "HimanshuNarware",
+          "url": "https://github.com/HimanshuNarware"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKWnFsc53r40M",
+      "title": "added logo",
+      "url": "https://github.com/HimanshuNarware/Devlabs/pull/2785",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-08-07T09:13:02Z",
+      "number": 2785,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Devlabs",
+        "url": "https://github.com/HimanshuNarware/Devlabs",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/83147410?u=b83d4739fd5c83388fab447796358dd52fd690ab&v=4",
+          "login": "HimanshuNarware",
+          "url": "https://github.com/HimanshuNarware"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMW9uKc53IN-l",
+      "title": "add certificate",
+      "url": "https://github.com/GSSoC24/Postman-Challenge/pull/1098",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/143860130?v=4",
+        "url": "https://github.com/Anshikaa-Saini",
+        "login": "Anshikaa-Saini"
+      },
+      "createdAt": "2024-08-01T14:13:40Z",
+      "number": 1098,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Postman-Challenge",
+        "url": "https://github.com/GSSoC24/Postman-Challenge",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/166525102?v=4",
+          "login": "GSSoC24",
+          "url": "https://github.com/GSSoC24"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ6Wpt852pdin",
+      "title": "added title",
+      "url": "https://github.com/apu52/METAVERSE/pull/1134",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+        "url": "https://github.com/apu52",
+        "login": "apu52"
+      },
+      "createdAt": "2024-07-27T16:05:43Z",
+      "number": 1134,
+      "changedFiles": 2,
+      "additions": 17,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "METAVERSE",
+        "url": "https://github.com/apu52/METAVERSE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+          "login": "apu52",
+          "url": "https://github.com/apu52"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLiT30852mjqc",
+      "title": "added algorithms",
+      "url": "https://github.com/codeharborhub/codeharborhub.github.io/pull/3924",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99037494?u=d1d687d2a139ec34b4bf19a51e9f961d47ae8494&v=4",
+        "url": "https://github.com/ajay-dhangar",
+        "login": "ajay-dhangar"
+      },
+      "createdAt": "2024-07-26T17:18:44Z",
+      "number": 3924,
+      "changedFiles": 4,
+      "additions": 480,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "codeharborhub.github.io",
+        "url": "https://github.com/codeharborhub/codeharborhub.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/160743453?v=4",
+          "login": "codeharborhub",
+          "url": "https://github.com/codeharborhub"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKt3Qos52lwM1",
+      "title": "remove underline",
+      "url": "https://github.com/khushi-joshi-05/Food-ordering-website/pull/1485",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
+        "url": "https://github.com/khushi-joshi-05",
+        "login": "khushi-joshi-05"
+      },
+      "createdAt": "2024-07-26T14:49:37Z",
+      "number": 1485,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Food-ordering-website",
+        "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
+          "login": "khushi-joshi-05",
+          "url": "https://github.com/khushi-joshi-05"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJAH4zs52X0Mo",
+      "title": "added discord logo",
+      "url": "https://github.com/codervivek5/VigyBag/pull/1977",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62784060?u=30e6a67dcef41b0aa202877fb0654fd3f609ffe6&v=4",
+        "url": "https://github.com/codervivek5",
+        "login": "codervivek5"
+      },
+      "createdAt": "2024-07-24T17:48:50Z",
+      "number": 1977,
+      "changedFiles": 1,
+      "additions": 24,
+      "deletions": 25,
+      "baseRepository": {
+        "name": "VigyBag",
+        "url": "https://github.com/codervivek5/VigyBag",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/62784060?u=30e6a67dcef41b0aa202877fb0654fd3f609ffe6&v=4",
+          "login": "codervivek5",
+          "url": "https://github.com/codervivek5"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLiT30852HNhy",
+      "title": "added solutions in more programming languages",
+      "url": "https://github.com/codeharborhub/codeharborhub.github.io/pull/3794",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99037494?u=d1d687d2a139ec34b4bf19a51e9f961d47ae8494&v=4",
+        "url": "https://github.com/ajay-dhangar",
+        "login": "ajay-dhangar"
+      },
+      "createdAt": "2024-07-22T16:20:31Z",
+      "number": 3794,
+      "changedFiles": 1,
+      "additions": 133,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "codeharborhub.github.io",
+        "url": "https://github.com/codeharborhub/codeharborhub.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/160743453?v=4",
+          "login": "codeharborhub",
+          "url": "https://github.com/codeharborhub"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJfwqqM52Fwti",
+      "title": "added Simon logo",
+      "url": "https://github.com/kunjgit/GameZone/pull/4931",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
+        "url": "https://github.com/kunjgit",
+        "login": "kunjgit"
+      },
+      "createdAt": "2024-07-22T13:12:19Z",
+      "number": 4931,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "GameZone",
+        "url": "https://github.com/kunjgit/GameZone",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
+          "login": "kunjgit",
+          "url": "https://github.com/kunjgit"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJfwqqM515sw7",
+      "title": "Main page link is corrected and solved the error",
+      "url": "https://github.com/kunjgit/GameZone/pull/4902",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
+        "url": "https://github.com/kunjgit",
+        "login": "kunjgit"
+      },
+      "createdAt": "2024-07-19T13:47:11Z",
+      "number": 4902,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "GameZone",
+        "url": "https://github.com/kunjgit/GameZone",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/103763618?u=f544a7d5ad0e10fe0c421a5075fd1753e694138d&v=4",
+          "login": "kunjgit",
+          "url": "https://github.com/kunjgit"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ6Wpt851lXU9",
+      "title": "changed netflix project",
+      "url": "https://github.com/apu52/METAVERSE/pull/1000",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-07-17T02:44:33Z",
+      "number": 1000,
+      "changedFiles": 14,
+      "additions": 476,
+      "deletions": 386,
+      "baseRepository": {
+        "name": "METAVERSE",
+        "url": "https://github.com/apu52/METAVERSE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+          "login": "apu52",
+          "url": "https://github.com/apu52"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ6Wpt851TwYD",
+      "title": "netflix clone",
+      "url": "https://github.com/apu52/METAVERSE/pull/980",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-07-14T02:57:54Z",
+      "number": 980,
+      "changedFiles": 15,
+      "additions": 476,
+      "deletions": 387,
+      "baseRepository": {
+        "name": "METAVERSE",
+        "url": "https://github.com/apu52/METAVERSE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+          "login": "apu52",
+          "url": "https://github.com/apu52"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMUowZc51TDkA",
+      "title": "made change on extension",
+      "url": "https://github.com/viendimine/Youtuby/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/126682925?u=aaf63bbc5a88fc2151cd27c959b235c996ae2f8e&v=4",
+        "url": "https://github.com/viendimine",
+        "login": "viendimine"
+      },
+      "createdAt": "2024-07-13T15:27:48Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 233,
+      "deletions": 68,
+      "baseRepository": {
+        "name": "Youtuby",
+        "url": "https://github.com/viendimine/Youtuby",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/126682925?u=aaf63bbc5a88fc2151cd27c959b235c996ae2f8e&v=4",
+          "login": "viendimine",
+          "url": "https://github.com/viendimine"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLTZ4Us51GTA_",
+      "title": "logo is added in the contact page",
+      "url": "https://github.com/pooranjoyb/popShop/pull/329",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90945182?u=11938eff5af992676a0179b062df057c47e7991e&v=4",
+        "url": "https://github.com/pooranjoyb",
+        "login": "pooranjoyb"
+      },
+      "createdAt": "2024-07-11T13:40:54Z",
+      "number": 329,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "popShop",
+        "url": "https://github.com/pooranjoyb/popShop",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/90945182?u=11938eff5af992676a0179b062df057c47e7991e&v=4",
+          "login": "pooranjoyb",
+          "url": "https://github.com/pooranjoyb"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKt3Qos50aBvF",
+      "title": "logo is added",
+      "url": "https://github.com/khushi-joshi-05/Food-ordering-website/pull/1266",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76521579?u=ca47a64c437e2061ed4d33b39af79e6c3878c3ce&v=4",
+        "url": "https://github.com/sunny0625",
+        "login": "sunny0625"
+      },
+      "createdAt": "2024-07-04T07:09:36Z",
+      "number": 1266,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Food-ordering-website",
+        "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
+          "login": "khushi-joshi-05",
+          "url": "https://github.com/khushi-joshi-05"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL0TLiM50Nnvw",
+      "title": "discord logo is added",
+      "url": "https://github.com/Sayak-Bhunia/mystory/pull/275",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-07-02T15:02:34Z",
+      "number": 275,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mystory",
+        "url": "https://github.com/Sayak-Bhunia/mystory",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110457746?u=de6c14b6842103a464b61ad0ec59cc856ee292f0&v=4",
+          "login": "Sayak-Bhunia",
+          "url": "https://github.com/Sayak-Bhunia"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ6Wpt85zsye9",
+      "title": "logo is added in career crafters",
+      "url": "https://github.com/apu52/METAVERSE/pull/870",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+        "url": "https://github.com/apu52",
+        "login": "apu52"
+      },
+      "createdAt": "2024-06-27T02:09:29Z",
+      "number": 870,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "METAVERSE",
+        "url": "https://github.com/apu52/METAVERSE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+          "login": "apu52",
+          "url": "https://github.com/apu52"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLxMJS85zqTLf",
+      "title": "changed footer",
+      "url": "https://github.com/arghadipmanna101/Flipkart_Clone/pull/1314",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-26T16:44:59Z",
+      "number": 1314,
+      "changedFiles": 2,
+      "additions": 311,
+      "deletions": 157,
+      "baseRepository": {
+        "name": "Flipkart_Clone",
+        "url": "https://github.com/arghadipmanna101/Flipkart_Clone",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130065095?u=09b7ab919c0762fc93ff48985d7a84313ddfd7dc&v=4",
+          "login": "arghadipmanna101",
+          "url": "https://github.com/arghadipmanna101"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLWYCzM5zcJPd",
+      "title": "logo is added",
+      "url": "https://github.com/Indie-Kart/ecommerce-store/pull/158",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85580785?u=ed1317a79c7f758b0861399e9a420e52a7adcefa&v=4",
+        "url": "https://github.com/trishanu-init",
+        "login": "trishanu-init"
+      },
+      "createdAt": "2024-06-25T03:59:17Z",
+      "number": 158,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "ecommerce-store",
+        "url": "https://github.com/Indie-Kart/ecommerce-store",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/159432359?v=4",
+          "login": "Indie-Kart",
+          "url": "https://github.com/Indie-Kart"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOI_OvOs5zRMgF",
+      "title": "footer added icons",
+      "url": "https://github.com/Avdhesh-Varshney/pjt-blog/pull/384",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-23T04:23:37Z",
+      "number": 384,
+      "changedFiles": 1,
+      "additions": 23,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "pjt-blog",
+        "url": "https://github.com/Avdhesh-Varshney/pjt-blog",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114330097?u=3371844471ca9660c51b04450ee43291919d3822&v=4",
+          "login": "Avdhesh-Varshney",
+          "url": "https://github.com/Avdhesh-Varshney"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL0TLiM5zO9xz",
+      "title": "added the discord",
+      "url": "https://github.com/Sayak-Bhunia/mystory/pull/262",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83400697?u=9d7e6220f820a79658009de8fbd6559086df779a&v=4",
+        "url": "https://github.com/Kritika30032002",
+        "login": "Kritika30032002"
+      },
+      "createdAt": "2024-06-22T01:51:25Z",
+      "number": 262,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mystory",
+        "url": "https://github.com/Sayak-Bhunia/mystory",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/110457746?u=de6c14b6842103a464b61ad0ec59cc856ee292f0&v=4",
+          "login": "Sayak-Bhunia",
+          "url": "https://github.com/Sayak-Bhunia"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMHyBMM5y_Uxo",
+      "title": "Knn algorithm implementation for all datasets",
+      "url": "https://github.com/charann29/opensource/pull/363",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-19T17:24:44Z",
+      "number": 363,
+      "changedFiles": 6,
+      "additions": 2947,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "opensource",
+        "url": "https://github.com/charann29/opensource",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91114649?u=623e5262f499df04cc9c99e2cf629bc21e432ff9&v=4",
+          "login": "charann29",
+          "url": "https://github.com/charann29"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJjFLKs5y2fV4",
+      "title": "feat: footer changed",
+      "url": "https://github.com/Sanchitbajaj02/palettegram/pull/385",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55249639?u=559dec8f2f97aacfcebc09a05d8d92526ce9fbda&v=4",
+        "url": "https://github.com/Sanchitbajaj02",
+        "login": "Sanchitbajaj02"
+      },
+      "createdAt": "2024-06-18T16:49:07Z",
+      "number": 385,
+      "changedFiles": 2,
+      "additions": 261,
+      "deletions": 303,
+      "baseRepository": {
+        "name": "palettegram",
+        "url": "https://github.com/Sanchitbajaj02/palettegram",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55249639?u=559dec8f2f97aacfcebc09a05d8d92526ce9fbda&v=4",
+          "login": "Sanchitbajaj02",
+          "url": "https://github.com/Sanchitbajaj02"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMHyBMM5yqgxb",
+      "title": "diabetes_prediction using streamlit",
+      "url": "https://github.com/charann29/opensource/pull/277",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-17T08:58:35Z",
+      "number": 277,
+      "changedFiles": 5,
+      "additions": 101,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "opensource",
+        "url": "https://github.com/charann29/opensource",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91114649?u=623e5262f499df04cc9c99e2cf629bc21e432ff9&v=4",
+          "login": "charann29",
+          "url": "https://github.com/charann29"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLWYCzM5ypSFI",
+      "title": "add logo",
+      "url": "https://github.com/Indie-Kart/ecommerce-store/pull/127",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-17T05:41:42Z",
+      "number": 127,
+      "changedFiles": 6,
+      "additions": 236,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "ecommerce-store",
+        "url": "https://github.com/Indie-Kart/ecommerce-store",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/159432359?v=4",
+          "login": "Indie-Kart",
+          "url": "https://github.com/Indie-Kart"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMHyBMM5ynTVs",
+      "title": "runmodel",
+      "url": "https://github.com/charann29/opensource/pull/271",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-16T15:37:55Z",
+      "number": 271,
+      "changedFiles": 6,
+      "additions": 65971,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "opensource",
+        "url": "https://github.com/charann29/opensource",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91114649?u=623e5262f499df04cc9c99e2cf629bc21e432ff9&v=4",
+          "login": "charann29",
+          "url": "https://github.com/charann29"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL2VN_M5ymFqf",
+      "title": "changed footer",
+      "url": "https://github.com/BamaCharanChhandogi/Diabetes-Prediction/pull/103",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69814563?u=fd0ce10726585d8f7d233f64ab9f1639da647bb6&v=4",
+        "url": "https://github.com/BamaCharanChhandogi",
+        "login": "BamaCharanChhandogi"
+      },
+      "createdAt": "2024-06-16T06:59:21Z",
+      "number": 103,
+      "changedFiles": 1,
+      "additions": 45,
+      "deletions": 22,
+      "baseRepository": {
+        "name": "Diabetes-Prediction",
+        "url": "https://github.com/BamaCharanChhandogi/Diabetes-Prediction",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69814563?u=fd0ce10726585d8f7d233f64ab9f1639da647bb6&v=4",
+          "login": "BamaCharanChhandogi",
+          "url": "https://github.com/BamaCharanChhandogi"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLdz4B85yidre",
+      "title": "improved color on the footer",
+      "url": "https://github.com/anuragverma108/SwapReads/pull/1882",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-15T02:17:31Z",
+      "number": 1882,
+      "changedFiles": 1,
+      "additions": 9,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "SwapReads",
+        "url": "https://github.com/anuragverma108/SwapReads",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
+          "login": "anuragverma108",
+          "url": "https://github.com/anuragverma108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLSKYns5yiWAh",
+      "title": "icon added",
+      "url": "https://github.com/urstrulynishkarsh/ReactChat/pull/196",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-15T01:25:58Z",
+      "number": 196,
+      "changedFiles": 1,
+      "additions": 14,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "ReactChat",
+        "url": "https://github.com/urstrulynishkarsh/ReactChat",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/97511886?u=02597efcd8c76704c835ae3f879646f079f167db&v=4",
+          "login": "urstrulynishkarsh",
+          "url": "https://github.com/urstrulynishkarsh"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMHyBMM5ygR9k",
+      "title": "ml project",
+      "url": "https://github.com/charann29/opensource/pull/195",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-14T17:15:44Z",
+      "number": 195,
+      "changedFiles": 5,
+      "additions": 1541,
+      "deletions": 70,
+      "baseRepository": {
+        "name": "opensource",
+        "url": "https://github.com/charann29/opensource",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91114649?u=623e5262f499df04cc9c99e2cf629bc21e432ff9&v=4",
+          "login": "charann29",
+          "url": "https://github.com/charann29"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOG3wo9s5ygLN8",
+      "title": "This ml project",
+      "url": "https://github.com/chintanrout/Software-Developer-Salary-Predict/pull/1",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-14T16:51:59Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 0,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "Software-Developer-Salary-Predict",
+        "url": "https://github.com/chintanrout/Software-Developer-Salary-Predict",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/71009814?v=4",
+          "login": "chintanrout",
+          "url": "https://github.com/chintanrout"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLNSXwM5ybXvC",
+      "title": "replace facebook with linkedin logo and discord",
+      "url": "https://github.com/sk66641/Random-Disco-Light-Simulator/pull/261",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145834771?u=186ea234253023f008a600e0c8ebb16c2f755c50&v=4",
+        "url": "https://github.com/sk66641",
+        "login": "sk66641"
+      },
+      "createdAt": "2024-06-14T02:12:20Z",
+      "number": 261,
+      "changedFiles": 2,
+      "additions": 23,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "Random-Disco-Light-Simulator",
+        "url": "https://github.com/sk66641/Random-Disco-Light-Simulator",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/145834771?u=186ea234253023f008a600e0c8ebb16c2f755c50&v=4",
+          "login": "sk66641",
+          "url": "https://github.com/sk66641"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJjFLKs5ybTa7",
+      "title": "feat: footer is changed",
+      "url": "https://github.com/Sanchitbajaj02/palettegram/pull/382",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-14T01:49:12Z",
+      "number": 382,
+      "changedFiles": 4,
+      "additions": 820,
+      "deletions": 861,
+      "baseRepository": {
+        "name": "palettegram",
+        "url": "https://github.com/Sanchitbajaj02/palettegram",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/55249639?u=559dec8f2f97aacfcebc09a05d8d92526ce9fbda&v=4",
+          "login": "Sanchitbajaj02",
+          "url": "https://github.com/Sanchitbajaj02"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMHyBMM5yMLL6",
+      "title": "sample express ",
+      "url": "https://github.com/charann29/opensource/pull/40",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-12T06:13:58Z",
+      "number": 40,
+      "changedFiles": 1,
+      "additions": 28,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "opensource",
+        "url": "https://github.com/charann29/opensource",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91114649?u=623e5262f499df04cc9c99e2cf629bc21e432ff9&v=4",
+          "login": "charann29",
+          "url": "https://github.com/charann29"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLNlxSM5yHjIF",
+      "title": "added the discord logo",
+      "url": "https://github.com/MAVRICK-1/e-commerce_website/pull/380",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-11T14:04:31Z",
+      "number": 380,
+      "changedFiles": 6,
+      "additions": 2737,
+      "deletions": 2670,
+      "baseRepository": {
+        "name": "e-commerce_website",
+        "url": "https://github.com/MAVRICK-1/e-commerce_website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146999057?u=f27962b99760dd798c6b332d77d267b673394745&v=4",
+          "login": "MAVRICK-1",
+          "url": "https://github.com/MAVRICK-1"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLxJ_v85x5ZOC",
+      "title": "footer changed",
+      "url": "https://github.com/Akshatchaube01/TimeWarp/pull/256",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-09T16:51:02Z",
+      "number": 256,
+      "changedFiles": 2,
+      "additions": 43,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "TimeWarp",
+        "url": "https://github.com/Akshatchaube01/TimeWarp",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/92796050?u=2f0438df4605d3f87b01a2adbf5e7c4a854ebec9&v=4",
+          "login": "Akshatchaube01",
+          "url": "https://github.com/Akshatchaube01"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ6Wpt85x4TjS",
+      "title": "Added logo to the main page",
+      "url": "https://github.com/apu52/METAVERSE/pull/761",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+        "url": "https://github.com/apu52",
+        "login": "apu52"
+      },
+      "createdAt": "2024-06-09T05:49:01Z",
+      "number": 761,
+      "changedFiles": 3,
+      "additions": 13,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "METAVERSE",
+        "url": "https://github.com/apu52/METAVERSE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+          "login": "apu52",
+          "url": "https://github.com/apu52"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLxMJS85x2NHR",
+      "title": "added logo",
+      "url": "https://github.com/arghadipmanna101/Flipkart_Clone/pull/1101",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/130065095?u=09b7ab919c0762fc93ff48985d7a84313ddfd7dc&v=4",
+        "url": "https://github.com/arghadipmanna101",
+        "login": "arghadipmanna101"
+      },
+      "createdAt": "2024-06-08T01:46:38Z",
+      "number": 1101,
+      "changedFiles": 2,
+      "additions": 4,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Flipkart_Clone",
+        "url": "https://github.com/arghadipmanna101/Flipkart_Clone",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130065095?u=09b7ab919c0762fc93ff48985d7a84313ddfd7dc&v=4",
+          "login": "arghadipmanna101",
+          "url": "https://github.com/arghadipmanna101"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyWlj85x2IVf",
+      "title": "added discord logo",
+      "url": "https://github.com/ChromeGaming/Formation-Absent/pull/58",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107414907?u=082a37c1b1ef1008e67e1403f9bdb90a90ab1394&v=4",
+        "url": "https://github.com/roy7077",
+        "login": "roy7077"
+      },
+      "createdAt": "2024-06-08T01:16:29Z",
+      "number": 58,
+      "changedFiles": 2,
+      "additions": 7,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Formation-Absent",
+        "url": "https://github.com/ChromeGaming/Formation-Absent",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+          "login": "ChromeGaming",
+          "url": "https://github.com/ChromeGaming"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLgP_es5xns0z",
+      "title": "added new internship",
+      "url": "https://github.com/HimanshuNarware/CareerZunction_Intern/pull/300",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-06T01:26:17Z",
+      "number": 300,
+      "changedFiles": 2,
+      "additions": 22,
+      "deletions": 19682,
+      "baseRepository": {
+        "name": "CareerZunction_Intern",
+        "url": "https://github.com/HimanshuNarware/CareerZunction_Intern",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/83147410?u=b83d4739fd5c83388fab447796358dd52fd690ab&v=4",
+          "login": "HimanshuNarware",
+          "url": "https://github.com/HimanshuNarware"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL6dQWs5xfjqp",
+      "title": "hover with different colors",
+      "url": "https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/pull/187",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/125847751?v=4",
+        "url": "https://github.com/techmannih",
+        "login": "techmannih"
+      },
+      "createdAt": "2024-06-05T02:03:13Z",
+      "number": 187,
+      "changedFiles": 5,
+      "additions": 118,
+      "deletions": 40,
+      "baseRepository": {
+        "name": "StudyNotion-An-Online-Education-Platform",
+        "url": "https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/113519369?u=8a8fa12b4cc959e59dc274cb1f60df536e14683d&v=4",
+          "login": "Muskansahuincredible",
+          "url": "https://github.com/Muskansahuincredible"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKVT6085xdETw",
+      "title": " added discord logo",
+      "url": "https://github.com/SUGAM-ARORA/UniCollab/pull/232",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-04T17:25:46Z",
+      "number": 232,
+      "changedFiles": 3,
+      "additions": 48,
+      "deletions": 40,
+      "baseRepository": {
+        "name": "UniCollab",
+        "url": "https://github.com/SUGAM-ARORA/UniCollab",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/96546088?u=c31e392190f38335bc50cec747a0b7ba1b38cc2d&v=4",
+          "login": "SUGAM-ARORA",
+          "url": "https://github.com/SUGAM-ARORA"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOK3d9mc5xcYnj",
+      "title": "footer change and hover it",
+      "url": "https://github.com/subhadipbhowmik/30-Days-Of-CPP/pull/177",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57017965?u=3b32b58a6a8940592f58cf50ca3ba633739e1658&v=4",
+        "url": "https://github.com/subhadipbhowmik",
+        "login": "subhadipbhowmik"
+      },
+      "createdAt": "2024-06-04T15:32:26Z",
+      "number": 177,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "30-Days-Of-CPP",
+        "url": "https://github.com/subhadipbhowmik/30-Days-Of-CPP",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57017965?u=3b32b58a6a8940592f58cf50ca3ba633739e1658&v=4",
+          "login": "subhadipbhowmik",
+          "url": "https://github.com/subhadipbhowmik"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKt3Qos5xXNde",
+      "title": "added logo to the foodie navbar",
+      "url": "https://github.com/khushi-joshi-05/Food-ordering-website/pull/908",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-04T00:56:06Z",
+      "number": 908,
+      "changedFiles": 2,
+      "additions": 479,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Food-ordering-website",
+        "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
+          "login": "khushi-joshi-05",
+          "url": "https://github.com/khushi-joshi-05"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ6Wpt85xMqIu",
+      "title": "added logo",
+      "url": "https://github.com/apu52/METAVERSE/pull/717",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+        "url": "https://github.com/apu52",
+        "login": "apu52"
+      },
+      "createdAt": "2024-06-01T14:29:34Z",
+      "number": 717,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "METAVERSE",
+        "url": "https://github.com/apu52/METAVERSE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+          "login": "apu52",
+          "url": "https://github.com/apu52"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKIg9rs5xJa6H",
+      "title": "change the footer and the title page logo",
+      "url": "https://github.com/Anushkabh/krishiconnect/pull/391",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-05-31T16:38:04Z",
+      "number": 391,
+      "changedFiles": 1,
+      "additions": 168,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "krishiconnect",
+        "url": "https://github.com/Anushkabh/krishiconnect",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99523033?v=4",
+          "login": "Anushkabh",
+          "url": "https://github.com/Anushkabh"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLdz4B85xEiO4",
+      "title": "hover the social media icons",
+      "url": "https://github.com/anuragverma108/SwapReads/pull/1096",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
+        "url": "https://github.com/anuragverma108",
+        "login": "anuragverma108"
+      },
+      "createdAt": "2024-05-31T00:54:47Z",
+      "number": 1096,
+      "changedFiles": 1,
+      "additions": 34,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "SwapReads",
+        "url": "https://github.com/anuragverma108/SwapReads",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
+          "login": "anuragverma108",
+          "url": "https://github.com/anuragverma108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKt3Qos5xBRSa",
+      "title": "hover the footer and changed the p size",
+      "url": "https://github.com/khushi-joshi-05/Food-ordering-website/pull/666",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-05-30T14:29:28Z",
+      "number": 666,
+      "changedFiles": 2,
+      "additions": 7,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Food-ordering-website",
+        "url": "https://github.com/khushi-joshi-05/Food-ordering-website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146544714?u=63b14507dee8ccec6384076e32c3d70bbfd0ed4e&v=4",
+          "login": "khushi-joshi-05",
+          "url": "https://github.com/khushi-joshi-05"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLdz4B85xA46l",
+      "title": "footer is changed and hover the social media icons",
+      "url": "https://github.com/anuragverma108/SwapReads/pull/1067",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
+        "url": "https://github.com/anuragverma108",
+        "login": "anuragverma108"
+      },
+      "createdAt": "2024-05-30T13:38:32Z",
+      "number": 1067,
+      "changedFiles": 1,
+      "additions": 200,
+      "deletions": 468,
+      "baseRepository": {
+        "name": "SwapReads",
+        "url": "https://github.com/anuragverma108/SwapReads",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/129655645?u=48792aba5dad8c439928a03e7ed06364ad4c06ba&v=4",
+          "login": "anuragverma108",
+          "url": "https://github.com/anuragverma108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyWOoM5w8vuc",
+      "title": "change cursor to pointer",
+      "url": "https://github.com/ChromeGaming/Spaceship-escort/pull/78",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98798977?u=89783faecd6e690491822b81459f142222ae1365&v=4",
+        "url": "https://github.com/Durgesh4993",
+        "login": "Durgesh4993"
+      },
+      "createdAt": "2024-05-30T01:51:28Z",
+      "number": 78,
+      "changedFiles": 1,
+      "additions": 27,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "Spaceship-escort",
+        "url": "https://github.com/ChromeGaming/Spaceship-escort",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+          "login": "ChromeGaming",
+          "url": "https://github.com/ChromeGaming"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ6Wpt85w8s0T",
+      "title": "footer changed of the food ordering website",
+      "url": "https://github.com/apu52/METAVERSE/pull/685",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+        "url": "https://github.com/apu52",
+        "login": "apu52"
+      },
+      "createdAt": "2024-05-30T01:39:49Z",
+      "number": 685,
+      "changedFiles": 3,
+      "additions": 72,
+      "deletions": 40,
+      "baseRepository": {
+        "name": "METAVERSE",
+        "url": "https://github.com/apu52/METAVERSE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/114172928?u=9dc5c314dd23d4468c5dbfa3e20da32f36c1c7d0&v=4",
+          "login": "apu52",
+          "url": "https://github.com/apu52"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLyWOoM5w0wks",
+      "title": "adding cursor when we move to the help button, settings buttons and other",
+      "url": "https://github.com/ChromeGaming/Spaceship-escort/pull/76",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-05-29T01:39:55Z",
+      "number": 76,
+      "changedFiles": 1,
+      "additions": 17,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Spaceship-escort",
+        "url": "https://github.com/ChromeGaming/Spaceship-escort",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/134843447?v=4",
+          "login": "ChromeGaming",
+          "url": "https://github.com/ChromeGaming"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "closed": 30,
+  "merged": 37,
+  "totalCount": 67
+}

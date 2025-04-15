@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOMPzNvg",
+      "name": "sign_language_to_text_and_speech_using_cnn",
+      "createdAt": "2024-06-29T17:30:24Z",
+      "url": "https://github.com/jayanththalla/sign_language_to_text_and_speech_using_cnn",
+      "description": "This project uses CNN to recognize American Sign Language hand gestures in real-time, converting them into text and audio to aid communication for deaf and dumb individuals.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOMq704w",
+      "name": "Nike",
+      "createdAt": "2024-08-31T13:17:29Z",
+      "url": "https://github.com/jayanththalla/Nike",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOMukoeg",
+      "name": "School-CRM",
+      "createdAt": "2024-09-08T13:40:50Z",
+      "url": "https://github.com/jayanththalla/School-CRM",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONSxCXg",
+      "name": "donations",
+      "createdAt": "2024-11-21T13:53:07Z",
+      "url": "https://github.com/jayanththalla/donations",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONlSYgw",
+      "name": "Travel",
+      "createdAt": "2025-01-03T07:37:53Z",
+      "url": "https://github.com/jayanththalla/Travel",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONmmcZw",
+      "name": "androidApp",
+      "createdAt": "2025-01-06T15:52:38Z",
+      "url": "https://github.com/jayanththalla/androidApp",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
