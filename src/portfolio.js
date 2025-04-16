@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Jayanth Thalla Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://jayanththalla.vercel.app/home",
   },
 };
 
@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1dqylMs46ElWuzm537X0RmYNsGgbnINgb/view?usp=drive_link",
-  portfolio_repository: "https://github.com/jayanththalla/masterPortfolio",
+  portfolio_repository: "https://github.com/jayanththalla/jayanththalla-portfolio",
   githubProfile: "https://github.com/jayanththalla",
 };
 
