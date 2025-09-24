@@ -1,6 +1,31 @@
 {
     "data": [
         {
+            "id": "PR_kwDOM4LolM6apWCF",
+            "title": "Refactor code structure for improved readability and maintainability",
+            "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/56",
+            "state": "MERGED",
+            "mergedBy": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/123321320?u=d5fe29cacc5397586292f8b1ecbbb44f8c8049c4&v=4",
+                "url": "https://github.com/Nidhi-Satyapriya",
+                "login": "Nidhi-Satyapriya"
+            },
+            "createdAt": "2025-06-16T05:52:16Z",
+            "number": 56,
+            "changedFiles": 3,
+            "additions": 3,
+            "deletions": 3,
+            "baseRepository": {
+                "name": "AutoEDA-Automated-Data-Preprocessing-Toolkit",
+                "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/123321320?u=d5fe29cacc5397586292f8b1ecbbb44f8c8049c4&v=4",
+                    "login": "Nidhi-Satyapriya",
+                    "url": "https://github.com/Nidhi-Satyapriya"
+                }
+            }
+        },
+        {
             "id": "PR_kwDOM5p1nM6GtENO",
             "title": "Updated the Navbar",
             "url": "https://github.com/Mujtabaa07/coffeeShop/pull/177",
@@ -77,7 +102,7 @@
             "url": "https://github.com/anuragverma108/SwapReads/pull/3560",
             "state": "MERGED",
             "mergedBy": {
-                "avatarUrl": "https://avatars.githubusercontent.com/u/161804629?u=581e133dd530affde27317bd8e97e132416b5ef2&v=4",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/161804629?v=4",
                 "url": "https://github.com/sailaja-adapa",
                 "login": "sailaja-adapa"
             },
@@ -809,7 +834,7 @@
         {
             "id": "PR_kwDOI_OvOs5zRMgF",
             "title": "footer added icons",
-            "url": "https://github.com/Avdhesh-Varshney/pjt-blog/pull/384",
+            "url": "https://github.com/Code-A2Z/code-a2z/pull/384",
             "state": "CLOSED",
             "mergedBy": null,
             "createdAt": "2024-06-23T04:23:37Z",
@@ -818,12 +843,12 @@
             "additions": 23,
             "deletions": 2,
             "baseRepository": {
-                "name": "pjt-blog",
-                "url": "https://github.com/Avdhesh-Varshney/pjt-blog",
+                "name": "code-a2z",
+                "url": "https://github.com/Code-A2Z/code-a2z",
                 "owner": {
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/114330097?u=3371844471ca9660c51b04450ee43291919d3822&v=4",
-                    "login": "Avdhesh-Varshney",
-                    "url": "https://github.com/Avdhesh-Varshney"
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/194246163?v=4",
+                    "login": "Code-A2Z",
+                    "url": "https://github.com/Code-A2Z"
                 }
             }
         },
@@ -1076,7 +1101,7 @@
             "url": "https://github.com/sk66641/Random-Disco-Light-Simulator/pull/261",
             "state": "MERGED",
             "mergedBy": {
-                "avatarUrl": "https://avatars.githubusercontent.com/u/145834771?u=186ea234253023f008a600e0c8ebb16c2f755c50&v=4",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/145834771?u=e92cb28d36640c79c8a8b79754cd22274e48021f&v=4",
                 "url": "https://github.com/sk66641",
                 "login": "sk66641"
             },
@@ -1089,7 +1114,7 @@
                 "name": "Random-Disco-Light-Simulator",
                 "url": "https://github.com/sk66641/Random-Disco-Light-Simulator",
                 "owner": {
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/145834771?u=186ea234253023f008a600e0c8ebb16c2f755c50&v=4",
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/145834771?u=e92cb28d36640c79c8a8b79754cd22274e48021f&v=4",
                     "login": "sk66641",
                     "url": "https://github.com/sk66641"
                 }
@@ -1558,6 +1583,6 @@
     ],
     "open": 0,
     "closed": 30,
-    "merged": 37,
-    "totalCount": 67
+    "merged": 38,
+    "totalCount": 68
 }

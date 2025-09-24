@@ -1,42 +1,6 @@
 {
   "data": [
     {
-      "id": "R_kgDOMPzNvg",
-      "name": "sign_language_to_text_and_speech_using_cnn",
-      "createdAt": "2024-06-29T17:30:24Z",
-      "url": "https://github.com/jayanththalla/sign_language_to_text_and_speech_using_cnn",
-      "description": "This project uses CNN to recognize American Sign Language hand gestures in real-time, converting them into text and audio to aid communication for deaf and dumb individuals.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOMq704w",
-      "name": "Nike",
-      "createdAt": "2024-08-31T13:17:29Z",
-      "url": "https://github.com/jayanththalla/Nike",
-      "description": "Welcome to the Nike Clone project! This is a front-end replica of the Nike website, built using React and Tailwind CSS with Vite as the build tool",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
-    },
-    {
       "id": "R_kgDOMukoeg",
       "name": "School-CRM",
       "createdAt": "2024-09-08T13:40:50Z",
@@ -51,6 +15,58 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOOaH__A",
+      "name": "diabetes-predictor",
+      "createdAt": "2025-04-15T16:42:11Z",
+      "url": "https://github.com/jayanththalla/diabetes-predictor",
+      "description": "A powerful machine learning application that provides real-time diabetes risk assessments using state-of-the-art predictive models. Designed to educate, detect early symptoms, and help users take preventive steps toward a healthier life.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDONmmcZw",
+      "name": "androidApp",
+      "createdAt": "2025-01-06T15:52:38Z",
+      "url": "https://github.com/jayanththalla/androidApp",
+      "description": "An AI-powered web tool to analyze Android APKs and generate detailed security insights. Upload APK files and get a clear breakdown of permissions, vulnerabilities, and more — all from a sleek frontend.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
           "name": "CSS",
@@ -95,24 +111,16 @@
       ]
     },
     {
-      "id": "R_kgDONmmcZw",
-      "name": "androidApp",
-      "createdAt": "2025-01-06T15:52:38Z",
-      "url": "https://github.com/jayanththalla/androidApp",
-      "description": "An AI-powered web tool to analyze Android APKs and generate detailed security insights. Upload APK files and get a clear breakdown of permissions, vulnerabilities, and more — all from a sleek frontend.",
+      "id": "R_kgDOOeSbcg",
+      "name": "online-voting-portal",
+      "createdAt": "2025-04-23T09:34:56Z",
+      "url": "https://github.com/jayanththalla/online-voting-portal",
+      "description": "A secure, modern, and user-friendly online voting system built with Next.js 14, MongoDB, and Tailwind CSS. This platform enables secure electronic voting with features like photo verification, real-time results, and comprehensive admin controls.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
         },
         {
           "name": "CSS",
