@@ -194,10 +194,25 @@ const skills = {
           style: { color: "#61DAFB" },
         },
         {
-          skillName: "Bootstrap",
-          fontAwesomeClassname: "simple-icons:bootstrap",
-          style: { color: "#7952B3" },
-        }
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: { color: "#4479A1" },
+        },
+        {
+          skillName: "FastAPI",
+          fontAwesomeClassname: "simple-icons:fastapi",
+          style: { color: "#009688" },
+        },
+        {
+          skillName: "Angular",
+          fontAwesomeClassname: "simple-icons:angular",
+          style: { color: "#DD0031" },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "simple-icons:python",
+          style: { color: "#3776AB" },
+        },
       ],
     },
     {
@@ -571,10 +586,10 @@ const experience = {
       experiences: [
         {
           title: "Software Developer Intern",
-          company: "Wisile",
-          company_url: "https://wisile.com/",
-          logo_path: "wisile_logo.png", // Replace with your actual logo filename
-          duration: "Aug 2024 – Present",
+          company: "Rickle",
+          company_url: "https://rickle.ai/",
+          logo_path: "rickle_logo.png", // Replace with your actual logo filename
+          duration: "Nov 2024 – Dec 2025",
           location: "Remote",
           description:
             "Worked on building and optimizing full-stack features using React and Node.js. Implemented secure OAuth authentication (Google & Microsoft), built REST APIs with Express, integrated Notion API for content management, and configured SMTP for reliable email delivery. Developed a Risk Matrix UI and contributed to improving system performance and engagement.",
@@ -729,6 +744,19 @@ const contactPageData = {
   },
 };
 
+const projectArchitectures = {
+  "jayanththalla.github.io": {
+    description: "The personal portfolio website you are currently viewing. It features a responsive design, dynamic theming (including Hacker and Glass modes), and a Command Palette for efficient navigation. Built with React and heavily optimized for performance.",
+    techStack: ["React", "Styled Components", "Apollo Client", "GitHub GraphQL API", "Context API", "React Reveal"],
+    diagram: "https://mermaid.ink/img/pako:eNqNkk1PwzAMhv9K5AsQ3Q_gA9x4m7jtsE2IDxK3NlEaJ05boW3_O0lXEAeI0yV2_Dz287Fzsi4M2RBJrzf6AB_qYBl579rRw_K15do7RttZLtobC6t0b--qvT3rF0e0t5e1feyXj_2qvX3qPj_U9_2rvf2pv_tX__i_2j_sv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_98",
+  },
+  "masterPortfolio": {
+    description: "A data-driven portfolio template. It fetches data from GitHub and updates the UI automatically. Features include themes, animations, and PWA support.",
+    techStack: ["React", "PWA", "Service Workers", "GitHub API"],
+    diagram: ""
+  }
+};
+
 export {
   settings,
   seo,
@@ -743,4 +771,5 @@ export {
   publicationsHeader,
   publications,
   contactPageData,
+  projectArchitectures,
 };

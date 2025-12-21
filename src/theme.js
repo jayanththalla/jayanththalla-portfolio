@@ -195,4 +195,35 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
+export const hackerTheme = {
+  body: "#000000",
+  text: "#00FF41",
+  expTxtColor: "#00FF41",
+  highlight: "#0D0208",
+  dark: "#003B00",
+  secondaryText: "#008F11",
+  imageHighlight: "#00FF41",
+  compImgHighlight: "#00FF41",
+  jacketColor: "#00FF41",
+  headerColor: "#00FF4177",
+  splashBg: "#000000",
+};
+
+export const glassTheme = {
+  body: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+  text: "#ffffff",
+  expTxtColor: "#ffffff",
+  highlight: "rgba(255, 255, 255, 0.1)",
+  dark: "#000000",
+  secondaryText: "rgba(255, 255, 255, 0.7)",
+  imageHighlight: "#ffba08",
+  compImgHighlight: "#ffffff",
+  jacketColor: "#ffffff",
+  headerColor: "rgba(255, 255, 255, 0.2)",
+  splashBg: "#764ba2",
+  backdropFilter: "blur(10px)",
+  boxShadow: "0 8px 32px 0 rgba(31, 38, 135, 0.37)",
+  border: "1px solid rgba(255, 255, 255, 0.18)",
+};
+
 export const chosenTheme = materialTealTheme;

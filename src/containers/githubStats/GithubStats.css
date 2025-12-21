@@ -1,0 +1,66 @@
+.github-stats-main-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.github-stats-header {
+  font-size: 40px;
+  line-height: normal;
+  font-family: "Google Sans Regular";
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.github-stats-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.github-stats-card, .github-streak-card {
+  max-width: 100%;
+}
+
+.github-stats-img, .github-streak-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.github-charts-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.github-charts-header {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.github-chart-img-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+}
+
+@media (max-width: 768px) {
+    .github-stats-header {
+        font-size: 30px;
+    }
+    .github-charts-header {
+      font-size: 24px;
+    }
+}

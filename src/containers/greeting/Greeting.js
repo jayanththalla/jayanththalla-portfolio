@@ -37,6 +37,23 @@ export default function Greeting(props) {
                   theme={theme}
                   className="portfolio-repo-btn"
                 />
+                <p
+                  style={{
+                    color: theme.secondaryText,
+                    marginTop: "10px",
+                    fontSize: "14px",
+                    textAlign: "center"
+                  }}
+                >
+                  Press <span style={{
+                    background: theme.highlight,
+                    padding: "2px 6px",
+                    borderRadius: "4px",
+                    color: theme.text,
+                    fontWeight: "bold",
+                    fontFamily: "monospace"
+                  }}>Ctrl + K</span> to open Command Palette
+                </p>
               </div>
               {/* <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
