@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1dqylMs46ElWuzm537X0RmYNsGgbnINgb/view?usp=drive_link",
+    "https://drive.google.com/file/d/1xDiNiA7diWqiaCiTjy6S25idrc66X6c3/view?usp=sharing",
   portfolio_repository: "https://github.com/jayanththalla/masterPortfolio",
   githubProfile: "https://github.com/jayanththalla",
 };
