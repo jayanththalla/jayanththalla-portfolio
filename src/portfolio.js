@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1dqylMs46ElWuzm537X0RmYNsGgbnINgb/view?usp=drive_link",
+    "https://drive.google.com/file/d/1xDiNiA7diWqiaCiTjy6S25idrc66X6c3/view?usp=sharing",
   portfolio_repository: "https://github.com/jayanththalla/masterPortfolio",
   githubProfile: "https://github.com/jayanththalla",
 };
@@ -194,7 +194,6 @@ const skills = {
           style: { color: "#61DAFB" },
         },
         {
-<<<<<<< HEAD
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: { color: "#4479A1" },
@@ -214,12 +213,11 @@ const skills = {
           fontAwesomeClassname: "simple-icons:python",
           style: { color: "#3776AB" },
         },
-=======
+        {
           skillName: "Bootstrap",
           fontAwesomeClassname: "simple-icons:bootstrap",
           style: { color: "#7952B3" },
         }
->>>>>>> 8bdcc116386dab23961754c7391183c743710121
       ],
     },
     {
