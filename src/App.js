@@ -9,10 +9,6 @@ import CommandPalette from "./components/CommandPalette/CommandPalette";
 function App() {
   const [theme, setTheme] = React.useState(chosenTheme);
 
-  const toggleTheme = (newTheme) => {
-    setTheme(newTheme);
-  };
-
   return (
     <ThemeProvider theme={theme}>
       <>

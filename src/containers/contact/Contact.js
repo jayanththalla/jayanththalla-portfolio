@@ -2,6 +2,7 @@ import React from "react";
 import "./Contact.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import { contactInfo } from "../../portfolio";
+import { getImageAsset } from "../../utils/imageAssets";
 
 export default function Contact() {
   return (
@@ -31,7 +32,7 @@ export default function Contact() {
         <div className="contact-image-div">
           <img
             alt="Saad Working"
-            src={require("../../assets/images/contactMail.png")}
+            src={getImageAsset("contactMail.png")}
           ></img>
         </div>
       </div>

@@ -267,7 +267,7 @@ transition: all 0.3s ease-in-out 0s;
    0% {
     left:5px;
     top:5px;
-    opcity:75;
+    opacity: 0.75;
     width:0;
     height:0;
   }

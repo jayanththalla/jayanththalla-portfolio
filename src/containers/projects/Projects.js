@@ -11,10 +11,6 @@ export default function Projects() {
   const [repo, setrepo] = useState([]);
 
   useEffect(() => {
-    getRepoData();
-  }, []);
-
-  function getRepoData() {
     const client = new ApolloClient({
       uri: "https://api.github.com/graphql",
       request: (operation) => {
@@ -57,14 +53,10 @@ export default function Projects() {
         `,
       })
       .then((result) => {
-        setrepoFunction(result.data.repositoryOwner.pinnedRepositories.edges);
+        setrepo(result.data.repositoryOwner.pinnedRepositories.edges);
         console.log(result);
       });
-  }
-
-  function setrepoFunction(array) {
-    setrepo(array);
-  }
+  }, []);
 
   return (
     <div className="main" id="opensource">
