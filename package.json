@@ -2,7 +2,7 @@
   "private": true,
   "name": "jayanththalla",
   "version": "0.1.0",
-  "homepage": "https://jayanththalla.github.io",
+  "homepage": ".",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
