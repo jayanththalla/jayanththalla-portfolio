@@ -138,7 +138,7 @@ const skills = {
         "⚡ Developing scalable and secure web apps using React.js and Tailwind CSS",
         "⚡ Building REST APIs using Node.js, Express.js and integrating MongoDB for backend services",
         "⚡ Implementing real-time features and content management using Notion API and third-party integrations",
-        "⚡ Experience building mobile-friendly UIs and working with React Native for hybrid app development"
+        "⚡ Experience building mobile-friendly UIs and working with React Native for hybrid app development",
       ],
       softwareSkills: [
         {
@@ -217,7 +217,7 @@ const skills = {
           skillName: "Bootstrap",
           fontAwesomeClassname: "simple-icons:bootstrap",
           style: { color: "#7952B3" },
-        }
+        },
       ],
     },
     {
@@ -227,7 +227,7 @@ const skills = {
         "⚡ Hosting and deploying full-stack web apps using Vercel and Firebase",
         "⚡ Configuring SMTP servers for secure and reliable email delivery",
         "⚡ Securing authentication with OAuth (Google, Microsoft) and managing user sessions",
-        "⚡ Experience using Git and GitHub for version control, CI/CD practices, and collaborative development"
+        "⚡ Experience using Git and GitHub for version control, CI/CD practices, and collaborative development",
       ],
       softwareSkills: [
         {
@@ -278,13 +278,13 @@ const skills = {
         {
           skillName: "Render",
           fontAwesomeClassname: "simple-icons:render",
-          style: { color: "#000000" }
+          style: { color: "#000000" },
         },
         {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
-          style: { color: "#4169E1" }
-        }
+          style: { color: "#4169E1" },
+        },
       ],
     },
 
@@ -315,7 +315,7 @@ const skills = {
           skillName: "Framer",
           fontAwesomeClassname: "simple-icons:framer",
           style: { color: "#0055FF" },
-        }
+        },
         // {
         //   skillName: "Adobe Illustrator",
         //   fontAwesomeClassname: "simple-icons:adobeillustrator",
@@ -401,7 +401,8 @@ const degrees = {
   degrees: [
     {
       title: "CMR College of Engineering & Technology",
-      subtitle: "B.Tech in Computer Science (Artificial Intelligence & Machine Learning)",
+      subtitle:
+        "B.Tech in Computer Science (Artificial Intelligence & Machine Learning)",
       logo_path: "cmr_logo.png", // replace with your actual logo asset
       alt_name: "CMR Engineering College",
       duration: "2022 - 2026",
@@ -410,8 +411,7 @@ const degrees = {
         "⚡ Completed core courses including Data Structures, Algorithms, Operating Systems, DBMS, AI, and Web Technologies.",
       ],
       website_link: "https://cmrcet.ac.in",
-    }
-
+    },
   ],
 };
 
@@ -590,21 +590,49 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Software Developer Intern",
+          title: "SDE Intern",
+          company: "Triagist AI",
+          company_url: "https://triagist.ai/",
+          logo_path: "Tragist AI.svg",
+          duration: "Dec 2025 - Mar 2026",
+          location: "Remote",
+          description: `Worked on building a full-stack AI-powered healthcare platform focused on automating clinical workflows, triage, and documentation.
+
+• Architected and developed core backend systems using FastAPI and MongoDB for scalable healthcare operations
+• Engineered an AI-driven triage system using OpenAI and Medisearch APIs to intelligently route and process patient queries
+• Built real-time streaming responses using AsyncIO for low-latency, conversational AI interactions
+• Developed a dynamic template engine using React.js and Tailwind CSS, enabling clinicians to customize structured medical notes via drag-and-drop UI
+• Implemented calendar synchronization using CalDAV/WebDAV protocols for seamless integration with Google and Outlook calendars
+• Integrated Twilio for automated patient notifications`,
+          color: "#7e4b9e",
+        },
+        {
+          title: "SDE Intern",
           company: "Rickle",
           company_url: "https://rickle.ai/",
-          logo_path: "rickle_logo.png", // Replace with your actual logo filename
-          duration: "Nov 2024 – Dec 2025",
+          logo_path: "rickle_logo.png",
+          duration: "Dec 2024 – Nov 2025",
           location: "Remote",
-          description:
-            "Worked on building and optimizing full-stack features using React and Node.js. Implemented secure OAuth authentication (Google & Microsoft), built REST APIs with Express, integrated Notion API for content management, and configured SMTP for reliable email delivery. Developed a Risk Matrix UI and contributed to improving system performance and engagement.",
+          description: `• Implemented OAuth integrations for authentication, including Google Auth and Microsoft OAuth.
+• Configured and managed SMTP for sending emails securely.
+• Implemented an interactive Product Tour / onboarding walkthrough (React, component-driven UI, keyboard accessible) to improve feature discoverability and accelerate user activation.
+• Built the Events system and event UI components with responsive layouts and interactive controls; reduced user task completion time by improving UX flow.
+• Developed a reusable Project Context module and refactored related components to improve state management, reduce redundant renders, and speed up feature development.
+• Integrated a Gantt chart UI component (virtualized rendering) for timeline visualization; optimized rendering to handle large datasets without UI lag.
+• Implemented Waitlist & Testimonials sections and landing/pricing UI to support conversion-focused layouts and A/B-friendly content variations.
+• Led multiple UI/UX improvements and visual polish PRs (forms, tables, modals, micro-interactions) to ensure consistent spacing, typography, and accessibility (ARIA/semantic HTML).
+• Implemented and stabilized Billing & Plans UI, Checkout flows, and Account Usage panels with responsive design and client-side validation.
+• Fixed routing issues, implemented pagination, and refactored duration/project APIs to improve navigation reliability and frontend performance.
+• Implemented Meetings table UI and calendar meeting creation flows with accessible controls and responsive behavior across breakpoints.
+• Applied performance optimizations across key routes: code-splitting, lazy loading, asset optimization, and reduced perceived load time on critical pages.
+• Contributed bug fixes, cross-browser CSS fixes, and accessibility enhancements — improving front-end stability and reducing reopen rates for UI bugs.`,
           color: "#0C9D5899",
         },
         {
           title: "Open Source Contributor",
           company: "GirlScript Summer of Code",
           company_url: "https://gssoc.girlscript.tech/",
-          logo_path: "gssoc_logo.png", // Replace with GSSoC logo if available
+          logo_path: "gssoc_logo.png",
           duration: "May 2024 – Aug 2024",
           location: "Remote",
           description:
@@ -751,15 +779,25 @@ const contactPageData = {
 
 const projectArchitectures = {
   "jayanththalla.github.io": {
-    description: "The personal portfolio website you are currently viewing. It features a responsive design, dynamic theming (including Hacker and Glass modes), and a Command Palette for efficient navigation. Built with React and heavily optimized for performance.",
-    techStack: ["React", "Styled Components", "Apollo Client", "GitHub GraphQL API", "Context API", "React Reveal"],
-    diagram: "https://mermaid.ink/img/pako:eNqNkk1PwzAMhv9K5AsQ3Q_gA9x4m7jtsE2IDxK3NlEaJ05boW3_O0lXEAeI0yV2_Dz287Fzsi4M2RBJrzf6AB_qYBl579rRw_K15do7RttZLtobC6t0b--qvT3rF0e0t5e1feyXj_2qvX3qPj_U9_2rvf2pv_tX__i_2j_sv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_98",
+    description:
+      "The personal portfolio website you are currently viewing. It features a responsive design, dynamic theming (including Hacker and Glass modes), and a Command Palette for efficient navigation. Built with React and heavily optimized for performance.",
+    techStack: [
+      "React",
+      "Styled Components",
+      "Apollo Client",
+      "GitHub GraphQL API",
+      "Context API",
+      "React Reveal",
+    ],
+    diagram:
+      "https://mermaid.ink/img/pako:eNqNkk1PwzAMhv9K5AsQ3Q_gA9x4m7jtsE2IDxK3NlEaJ05boW3_O0lXEAeI0yV2_Dz287Fzsi4M2RBJrzf6AB_qYBl579rRw_K15do7RttZLtobC6t0b--qvT3rF0e0t5e1feyXj_2qvX3qPj_U9_2rvf2pv_tX__i_2j_sv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_94_5r_7T_2j_uv_ZP-6_98",
   },
-  "masterPortfolio": {
-    description: "A data-driven portfolio template. It fetches data from GitHub and updates the UI automatically. Features include themes, animations, and PWA support.",
+  masterPortfolio: {
+    description:
+      "A data-driven portfolio template. It fetches data from GitHub and updates the UI automatically. Features include themes, animations, and PWA support.",
     techStack: ["React", "PWA", "Service Workers", "GitHub API"],
-    diagram: ""
-  }
+    diagram: "",
+  },
 };
 
 export {
